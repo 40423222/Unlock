@@ -66,3 +66,57 @@ Choose: water<br>
 最後看見蒙古野馬集團是在蒙古 [ 選擇 ]<br>
 Choose: 1967<br>
 1967年
+
+<hr>
+
+### Exercise 3: Making inferences from the text
+Look at the photographs. Match the photograph with the description.<br>
+看圖片.批對圖片描述.
+<p>
+1.The first photograph is:<br>
+第一圖片是: <br>
+Choose: a Mongolian wild horse<br>
+一隻蒙古野馬<br>
+<img src="./../data/Unit 1/Reading skills/Mongolian wild horse.png" width="400" hspace="100">
+<p>
+2.The second photograph is:<br>
+第二圖片是:<br>
+Choose: a domestic horse<br>
+一隻國內的馬<br>
+<img src="./../data/Unit 1/Reading skills/domestic horse.png" width="400" hspace="100">
+
+<hr>
+
+### Exercise 4:
+Read the text again. Find words and phrases that have the same, or similar, meaning to the underlined words in the sentences. Write the words in the spaces below.<br>
+再次閱讀文章.找與換底線的句子相似的單字或短句.寫在空格內.
+<p>
+1.Between 1969 and 2008, Mongolian wild horses were only found in zoos.<br>
+1969到2008之間,蒙古野馬只在動物園找到.<br>
+Choose: extinct in the wild<br>
+在野外面絕
+<p>
+2.Scientists disagree about whether the Mongolian wild horse is a separate breed or part of a larger family of horses.<br>
+科學家不同意蒙古野馬是分離品種或大量馬家庭的一部份.<br>
+Choose: a full species or a subspecies<br>
+完整物種或亞種
+<p>
+3.The number of Mongolian wild horses decreased because of the weather and man’s activities. <br>
+因為天氣和人的活動蒙古野馬數量減少.<br>
+Choose: human behaviour<br>
+人類行為
+<p>
+4.All the Mongolian wild horses in existence today have come from the twelve horses that lived in zoos.<br>
+今天全部存活的十二隻蒙古野馬來自生活在動物園裡的馬.<br>
+Choose: are descended from<br>
+從…傳來
+<p>
+5.The programme used horses from different zoos, as it is important to breed animals that are not related if you want the young animals to be born healthy.<br>
+計畫使用從不同動物園來的馬,重點是繁殖不太相關的動物,如果你想要年輕的動物是健康的.<br>
+Choose: increase the gene pool of the species<br>
+增加物種基因庫
+<p>
+6.In 1992, sixteen horses were set free in Mongolia.<br>
+在1992,十六隻馬被釋放到蒙古<br>
+Choose: released<br>
+釋放
