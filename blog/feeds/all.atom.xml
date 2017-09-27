@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-09-27T21:29:00+08:00</updated><entry><title>Unit 1-Game</title><link href="./Unit%201-Game.html" rel="alternate"></link><published>2017-09-27T21:29:00+08:00</published><updated>2017-09-27T21:29:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Game.html</id><summary type="html">&lt;p&gt;第一單元的遊戲&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-09-27T21:41:00+08:00</updated><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2017-09-27T21:41:00+08:00</published><updated>2017-09-27T21:41:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
+
+
+&lt;!-- 這Title要停在最上方 所以時間要調到最新 --&gt;
+
+&lt;!-- 時間表: 2017-09-21 00:48 ~ 2017-09-27 21:41 --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h3&gt;&lt;a href="https://40423222.github.io/2017springcd_hw/blog/2017springcd-final-1.html"&gt;Unit 1&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Reading%20skills.html"&gt;Reading skills&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Language%20development.html"&gt;Language development&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Writing%20skills.html"&gt;Writing skils&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Writing%20task.html"&gt;Writing task&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Game.html"&gt;Game&lt;/a&gt;
+&lt;/ul&gt;</summary><category term="Unit 1"></category><category term="Contents"></category></entry><entry><title>Unit 1-Game</title><link href="./Unit%201-Game.html" rel="alternate"></link><published>2017-09-27T21:29:00+08:00</published><updated>2017-09-27T21:29:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Game.html</id><summary type="html">&lt;p&gt;第一單元的遊戲&lt;/p&gt;
 
 
 &lt;!-- 第一單元的遊戲 --&gt;
@@ -10,7 +25,7 @@
 &lt;p&gt;提示: 難度太高,不好玩
 &lt;p&gt;
 Easy模式會有的形容詞:&lt;br&gt;
-&lt;pre&gt;fatal致命   heavy重   unkind刻薄   unpleasant不愉快的&lt;/pre&gt;&lt;/p&gt;</summary><category term="Unit 1"></category><category term="U-1-Game"></category></entry><entry><title>Unit 1-Writing task</title><link href="./Unit%201-Writing%20task.html" rel="alternate"></link><published>2017-09-27T20:56:00+08:00</published><updated>2017-09-27T20:56:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Writing task.html</id><summary type="html">&lt;p&gt;第一單元的寫作任務&lt;/p&gt;
+&lt;pre&gt;fatal致命   heavy重   unkind刻薄   unpleasant不愉快的&lt;/pre&gt;&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Writing task</title><link href="./Unit%201-Writing%20task.html" rel="alternate"></link><published>2017-09-27T20:56:00+08:00</published><updated>2017-09-27T20:56:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Writing task.html</id><summary type="html">&lt;p&gt;第一單元的寫作任務&lt;/p&gt;
 
 
 &lt;!-- 第一單元的寫作任務 --&gt;
@@ -87,7 +102,7 @@ The world's polar bears are now less than 25,000.&lt;br&gt;
 瀕危物種:&lt;br&gt;
 全世界的北極熊現今只剩不到2萬5仟隻。
 &lt;p&gt;
-&lt;img src="./../data/Unit 1/4.Writing task/Polar bear.png" width="350" hspace="150"&gt;&lt;/p&gt;</summary><category term="Unit 1"></category><category term="U-1-Writing task"></category></entry><entry><title>Unit 1-Writing skills</title><link href="./Unit%201-Writing%20skills.html" rel="alternate"></link><published>2017-09-27T20:42:00+08:00</published><updated>2017-09-27T20:42:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Writing skills.html</id><summary type="html">&lt;p&gt;第一單元的寫作技巧&lt;/p&gt;
+&lt;img src="./../data/Unit 1/4.Writing task/Polar bear.png" width="350" hspace="150"&gt;&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Writing skills</title><link href="./Unit%201-Writing%20skills.html" rel="alternate"></link><published>2017-09-27T20:42:00+08:00</published><updated>2017-09-27T20:42:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Writing skills.html</id><summary type="html">&lt;p&gt;第一單元的寫作技巧&lt;/p&gt;
 
 
 &lt;!-- 第一單元的寫作技巧 --&gt;
@@ -130,7 +145,7 @@ Update: &lt;font style="background-color: #FFFF33"&gt;Neither&lt;/font&gt; the A
 6. The American black bear is not large. The American black bear is not aggressive.&lt;br&gt;
 美國黑熊不多.美國黑熊沒侵略性.&lt;br&gt;
 Update: The American black bear is not large &lt;font style="background-color: #FFFF33"&gt;or&lt;/font&gt; aggressive.&lt;br&gt;
-美國黑熊沒數量或侵略性.&lt;/p&gt;</summary><category term="Unit 1"></category><category term="U-1-Writing skills"></category></entry><entry><title>Unit 1-Language development</title><link href="./Unit%201-Language%20development.html" rel="alternate"></link><published>2017-09-21T20:53:00+08:00</published><updated>2017-09-21T20:53:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit 1-Language development.html</id><summary type="html">&lt;p&gt;第一單元的語言發展&lt;/p&gt;
+美國黑熊沒數量或侵略性.&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Language development</title><link href="./Unit%201-Language%20development.html" rel="alternate"></link><published>2017-09-21T20:53:00+08:00</published><updated>2017-09-21T20:53:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit 1-Language development.html</id><summary type="html">&lt;p&gt;第一單元的語言發展&lt;/p&gt;
 
 
 &lt;!-- 第一單元的語言發展 --&gt;
@@ -292,19 +307,7 @@ fill in: &lt;font style="background-color: #FFFF33"&gt;more endangered than&lt;/
 &lt;p&gt;
 6. The body of the Mongolian wild horse is [ 填寫 ] the body of the domestic horse. (big)&lt;br&gt;
 蒙古野馬的身體是 [ 填寫 ] 國內馬的身體. (大)&lt;br&gt;
-fill in: &lt;font style="background-color: #FFFF33"&gt;bigger than&lt;/font&gt;&lt;/p&gt;</summary><category term="Unit 1"></category><category term="U-1-Language development"></category></entry><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2017-09-21T00:48:00+08:00</published><updated>2017-09-21T00:48:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
-
-
-&lt;!-- 這Title要停在最上方 所以時間要調到最新 --&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;h3&gt;&lt;a href="https://40423222.github.io/2017springcd_hw/blog/2017springcd-final-1.html"&gt;Unit 1&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Reading skills
-&lt;ul&gt;
-&lt;li&gt;Reading for main ideas
-&lt;li&gt;Reading for detail
-&lt;/ul&gt;</summary><category term="Contents"></category></entry><entry><title>Unit 1-Reading skills</title><link href="./Unit%201-Reading%20skills.html" rel="alternate"></link><published>2017-09-21T00:25:00+08:00</published><updated>2017-09-21T00:25:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit 1-Reading skills.html</id><summary type="html">&lt;p&gt;第一單元的閱讀練習&lt;/p&gt;
+fill in: &lt;font style="background-color: #FFFF33"&gt;bigger than&lt;/font&gt;&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Reading skills</title><link href="./Unit%201-Reading%20skills.html" rel="alternate"></link><published>2017-09-21T00:25:00+08:00</published><updated>2017-09-21T00:25:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit 1-Reading skills.html</id><summary type="html">&lt;p&gt;第一單元的閱讀練習&lt;/p&gt;
 
 
 &lt;!-- 第一單元的閱讀練習 --&gt;
@@ -415,4 +418,4 @@ Choose: increase the gene pool of the species&lt;br&gt;
 6.In 1992, sixteen horses were set free in Mongolia.&lt;br&gt;
 在1992,十六隻馬被釋放到蒙古&lt;br&gt;
 Choose: released&lt;br&gt;
-釋放&lt;/p&gt;</summary><category term="Unit 1"></category><category term="U-1-Reading skills"></category></entry></feed>
+釋放&lt;/p&gt;</summary><category term="Unit 1"></category></entry></feed>

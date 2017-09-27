@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-09-27T21:32:42-00:00</lastmod>
+<lastmod>2017-09-27T21:42:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-09-27T21:32:42-00:00</lastmod>
+<lastmod>2017-09-27T21:42:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-09-27T21:32:42-00:00</lastmod>
+<lastmod>2017-09-27T21:42:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-09-27T21:32:42-00:00</lastmod>
+<lastmod>2017-09-27T21:42:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2017-09-21T01:31:57+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Contents.html</loc>
+<lastmod>2017-09-27T21:41:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,13 +74,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./Contents.html</loc>
-<lastmod>2017-09-21T00:48:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./Unit 1-Reading skills.html</loc>
 <lastmod>2017-09-21T00:25:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -82,63 +82,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/unlock.html</loc>
-<lastmod>2017-09-27T21:29:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/u-1-language-development.html</loc>
-<lastmod>2017-09-21T20:53:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/u-1-writing-skills.html</loc>
-<lastmod>2017-09-27T20:42:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/u-1-game.html</loc>
-<lastmod>2017-09-27T21:29:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/u-1-reading-skills.html</loc>
-<lastmod>2017-09-21T00:25:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/u-1-writing-task.html</loc>
-<lastmod>2017-09-27T20:56:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/contents.html</loc>
-<lastmod>2017-09-21T00:48:00+08:06</lastmod>
+<lastmod>2017-09-27T21:41:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/unit-1.html</loc>
-<lastmod>2017-09-27T21:29:00+08:06</lastmod>
+<lastmod>2017-09-27T21:41:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/contents.html</loc>
+<lastmod>2017-09-27T21:41:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40423222.html</loc>
-<lastmod>2017-09-27T21:29:00+08:06</lastmod>
+<lastmod>2017-09-27T21:41:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

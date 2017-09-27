@@ -1,7 +1,7 @@
 Title: Unit 1-Writing task
 Date: 2017-09-27 20:56
 Category: Unlock
-Tags: Unit 1, U-1-Writing task
+Tags: Unit 1
 Slug: Unit 1-Writing task
 Author: 40423222
 
