@@ -1,7 +1,7 @@
 Title: Unit 1-Reading skills
 Date: 2017-09-21 00:25
 Category: Unlock
-Tags: Unit 1, Reading skills
+Tags: Unit 1, U-1-Reading skills
 Slug: Unit 1-Reading skills
 Author: 40423222
 
@@ -77,13 +77,13 @@ Look at the photographs. Match the photograph with the description.<br>
 第一圖片是: <br>
 Choose: a Mongolian wild horse<br>
 一隻蒙古野馬<br>
-<img src="./../data/Unit 1/Reading skills/Mongolian wild horse.png" width="400" hspace="100">
+<img src="./../data/Unit 1/1.Reading skills/Mongolian wild horse.png" width="400" hspace="100">
 <p>
 2.The second photograph is:<br>
 第二圖片是:<br>
 Choose: a domestic horse<br>
 一隻國內的馬<br>
-<img src="./../data/Unit 1/Reading skills/domestic horse.png" width="400" hspace="100">
+<img src="./../data/Unit 1/1.Reading skills/domestic horse.png" width="400" hspace="100">
 
 <hr>
 

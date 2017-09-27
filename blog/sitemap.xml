@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-09-21T21:44:16-00:00</lastmod>
+<lastmod>2017-09-27T20:07:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-09-21T21:44:16-00:00</lastmod>
+<lastmod>2017-09-27T20:07:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-09-21T21:44:16-00:00</lastmod>
+<lastmod>2017-09-27T20:07:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-09-21T21:44:16-00:00</lastmod>
+<lastmod>2017-09-27T20:07:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,21 +67,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/reading-skills.html</loc>
-<lastmod>2017-09-21T00:25:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/language-development.html</loc>
+<loc>./tag/unit-1.html</loc>
 <lastmod>2017-09-21T20:53:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/unit-1.html</loc>
+<loc>./tag/u-1-language-development.html</loc>
 <lastmod>2017-09-21T20:53:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -90,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/contents.html</loc>
 <lastmod>2017-09-21T00:48:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/u-1-reading-skills.html</loc>
+<lastmod>2017-09-21T00:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
