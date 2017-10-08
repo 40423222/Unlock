@@ -49,7 +49,7 @@ In 2008, the number of Grizzlies is estimated at 16014, the current number of Gr
 不列顛哥倫比亞地區的灰熊曾多達25000隻但數量以因為捕獵和棲息地喪失而顯著下降。<br>
 在2008年,灰熊的數量估計為16014隻,目前北美洲的灰熊數量大約為55000隻。
 <p>
-<img src="./../data/Unit 1/4.Writing task/Grizzlies.png" width="350" hspace="150">
+<img src="./../data/Unit 1/Online/4.Writing task/Grizzlies.png" width="350" hspace="150">
 
 
 Polar bear:<br>
@@ -85,4 +85,4 @@ The world's polar bears are now less than 25,000.<br>
 瀕危物種:<br>
 全世界的北極熊現今只剩不到2萬5仟隻。
 <p>
-<img src="./../data/Unit 1/4.Writing task/Polar bear.png" width="350" hspace="150">
+<img src="./../data/Unit 1/Online/4.Writing task/Polar bear.png" width="350" hspace="150">

@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-10-08T23:29:48-00:00</lastmod>
+<lastmod>2017-10-08T23:49:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-10-08T23:29:48-00:00</lastmod>
+<lastmod>2017-10-08T23:49:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-10-08T23:29:48-00:00</lastmod>
+<lastmod>2017-10-08T23:49:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-10-08T23:29:48-00:00</lastmod>
+<lastmod>2017-10-08T23:49:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -74,7 +74,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./Unit_1-Language development.html</loc>
+<loc>./Unit_1-LanguageDevelopment.html</loc>
 <lastmod>2017-09-21T20:53:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -95,6 +95,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/book.html</loc>
+<lastmod>2017-10-08T22:42:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/mu-lu.html</loc>
 <lastmod>2017-10-08T23:04:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -104,13 +111,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/online.html</loc>
 <lastmod>2017-09-27T21:29:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/book.html</loc>
-<lastmod>2017-10-08T22:42:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
