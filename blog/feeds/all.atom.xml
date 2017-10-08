@@ -1,20 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-09-27T21:41:00+08:00</updated><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2017-09-27T21:41:00+08:00</published><updated>2017-09-27T21:41:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-10-08T23:04:00+08:00</updated><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2017-10-08T23:04:00+08:00</published><updated>2017-10-08T23:04:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-08:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
 
 
 &lt;!-- 這Title要停在最上方 所以時間要調到最新 --&gt;
 
-&lt;!-- 時間表: 2017-09-21 00:48 ~ 2017-09-27 21:41 --&gt;
+&lt;!-- 時間表: 2017-09-21 00:48 ~ 2017-09-27 21:41 ~ 2017-09-27 21:41 --&gt;
+
+&lt;hr&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;h3&gt;&lt;a href="https://40423222.github.io/2017springcd_hw/blog/2017springcd-final-1.html"&gt;Unit 1&lt;/a&gt;&lt;/h3&gt;
+&lt;li&gt;&lt;h3&gt;Book&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;B&gt;Unit 1&lt;/B&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=""&gt;BookUnit 1-P21~22&lt;/a&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h3&gt;Online&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;B&gt;Unit 1&lt;/B&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Reading%20skills.html"&gt;Reading skills&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Language%20development.html"&gt;Language development&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Writing%20skills.html"&gt;Writing skils&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Writing%20task.html"&gt;Writing task&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit%201-Game.html"&gt;Game&lt;/a&gt;
-&lt;/ul&gt;</summary><category term="Unit 1"></category><category term="Contents"></category></entry><entry><title>Unit 1-Game</title><link href="./Unit%201-Game.html" rel="alternate"></link><published>2017-09-27T21:29:00+08:00</published><updated>2017-09-27T21:29:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Game.html</id><summary type="html">&lt;p&gt;第一單元的遊戲&lt;/p&gt;
+&lt;/ul&gt;</summary><category term="目錄"></category></entry><entry><title>BookUnit_1-LosingTheBattleForSurvival (P.21~22)</title><link href="./BookUnit_1-LosingTheBattleForSurvival.html" rel="alternate"></link><published>2017-10-08T22:42:00+08:00</published><updated>2017-10-08T22:42:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-08:./BookUnit_1-LosingTheBattleForSurvival.html</id><summary type="html">&lt;p&gt;回家作業,完成P.22&lt;/p&gt;
+
+
+&lt;!-- 第一單元的遊戲 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;文章 (P.21)&lt;/h3&gt;
+&lt;p&gt;Losing the battle for survival&lt;br&gt;
+失去生存的戰鬥
+&lt;p&gt;
+red squirrel used to be a common sight in British forests and countryside. However, fewer than 140,000 individuals are thought to be left and most of them are found in Scotland. In contrast, grey squirrel are now so common they are seen as a pest and can be legally trapped and destroyed. The population decrease in red squirrel is claimed to be due to the introduction of the grey squirrel from North America, but disease and the loss of its native woodland habitat have also played a major role in the decline of the red squirrel in Britain.&lt;br&gt;
+紅松鼠在英國森林和農田是常見的.然而少於140000隻,大多在蘇格蘭發現.相反的,灰松鼠是現在常見的,就像禍害並法律同意滅絕.宣稱紅松鼠數量下降是因為從北美引進灰松鼠,但疾病和棲息地減少也是英國紅松鼠下降主要原因.
+&lt;p&gt;
+On first sight, the two species of squirrel are similar. They both have a distinctive long tail, which helps the squirrel to balance when jumping from tree to tree, and the same large eyes, small ears and powerful back legs. However, the grey squirrel has a clear physical advantage over the red. The red squirrel has a typical head-and-body length of 19 to 23 centimetres, a tail length of 15 to 20 centimetres and a body weight of 250 to 340 grams. Compared to this, the grey squirrel is a larger animal. The head and body measures between 23 and 30 centimetres long and the tail is between 19 and 25 centimetres long. Adult grey squirrel are heavier, weighing between 400 and 600 grams. This size allows them to store more fat and help them to survive a harsh winter, which would be fatal to their smaller cousins.&lt;br&gt;
+在第一眼上,兩種松鼠類似.他們都有獨特的長尾八,那能幫助松鼠在跳躍樹時保持平衡,並有相同大眼,小耳朵和強力的後腿.然而灰松鼠體型明顯優於紅松鼠.典型的紅松鼠頭加身體長19到23公分,尾巴長15到20公分並重250到340公克.相較灰松鼠,灰松鼠是大型動物.頭到身體測量在23到30公分之間並尾巴是19到25公分之間.成年的灰松鼠在400到600公克之間.這尺寸儲存更多脂肪來幫助生存在惡劣冬天,這對紅松鼠是致命的.
+&lt;p&gt;
+So why are red squirrels losing out in competition with grey squirrels? Size is one factor but there are others. Red squirrels live high up in trees, whereas greys spend more of their time on the ground. This means that any reduction in forest habitat greatly affects the red squirrel population. Another reason for the grey squirrel’s success is its ability to use food provided by humans. Like the fox, the grey squirrel can survive in an urban environment because of its intelligence and adaptability. The other problem for the red squirrel is disease. Both squirrels carry the parapox virus. While this does not seem to affect grey squirrels, it is fatal to reds.&lt;br&gt;
+所以為什麼比起灰松鼠,紅松鼠失去競爭?尺寸是一個因素,但有其他原因.紅松鼠生活在樹上裡,而灰松鼠花費在地面的時間較長.所以森林棲息地減少影響對紅松鼠很大.另一個原因灰松鼠能吃人類提供的食物.就像狐狸,灰松鼠能生存在城市環境內,因為它聰明跟適應性.另一問題紅松鼠的疾病.兩種松鼠都有parapox病毒.而不影響灰松鼠,對紅松鼠致命.
+&lt;p&gt;
+There does not seem to be much we can do to help red squirrels survive. Some politicians support destroying populations of grey squirrels but this would be seen as cruel by most people in Britain. However, red squirrels have been successfully introduced from other countries and they could be effectively protected in places like the isle of Wight and Anglesey, where there are no grey squirrels. Another question is whether we should protect red squirrel at all. Worldwide, they are not an endangered species, so many scientists would prefer government conservation funding to be spent on other endangered animals.&lt;br&gt;
+似乎我們沒太多可以幫助紅松鼠.一些政治家支持消滅灰松鼠,但會被大多數英國人視為殘忍的.然而紅松鼠成功引進其他國家並可以在有效保護區域,像是懷特和安格爾西,在這沒有灰松鼠.在全世界他們不是危險物種,所以許多科學家喜歡政府將保育經費花在其他瀕危動物上.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;回答 (P.22)&lt;/h3&gt;
+&lt;p&gt;4.Read the summary below and circle the correct words to complete it.&lt;br&gt;
+閱讀下方摘要並圈正確的單字來完成.&lt;/p&gt;
+&lt;p&gt;The article compares the red and the grey squirrel. The &lt;font style="background-color: #ffff00"&gt;(1) grey / red&lt;/font&gt; squirrel was introduced to Britain and has become very successful since then. Now there are &lt;font style="background-color: #ffff00"&gt;(2) fewer / more&lt;/font&gt; than 140,000 native red squirrels left in the wild, but the grey is regarded as a &lt;font style="background-color: #ffff00"&gt;(3) pest / pet.&lt;/font&gt; The main reason why the red squirrel is less successful is that the grey squirrel is &lt;font style="background-color: #ffff00"&gt;(4) fatter / thinner&lt;/font&gt; so it is less affected by cold weather. Another reason is that grey squirrel are &lt;font style="background-color: #ffff00"&gt;(5) unable / able&lt;/font&gt; to live in cities. A further reason may be the parapox virus, which &lt;font style="background-color: #ffff00"&gt;(6) kills / injures&lt;/font&gt; red squirrel. &lt;font style="background-color: #ffff00"&gt;(7) Most / Few&lt;/font&gt; British people support destroying grey squirrel and because red squirrel &lt;font style="background-color: #ffff00"&gt;(8) are / aren't&lt;/font&gt; endangered worldwide, they could be reintroduced to the UK.&lt;br&gt;
+文章比較紅松鼠和灰松鼠. &lt;font style="background-color: #ffff00"&gt;(1) 灰 / 紅&lt;/font&gt; 松鼠很成功的引進英國.現在這裡 &lt;font style="background-color: #ffff00"&gt;(2) 更少 / 更多&lt;/font&gt; 140,000本地紅松鼠留在野外,但灰松鼠被認為 &lt;font style="background-color: #ffff00"&gt;(3) 禍害 / 寵物.&lt;/font&gt; 為什麼紅松鼠少於灰松鼠主要原因是灰松鼠 &lt;font style="background-color: #ffff00"&gt;(4) 肥 / 瘦&lt;/font&gt; 不太受冬天影響.另一個原因是灰松鼠 &lt;font style="background-color: #ffff00"&gt;(5) 不能 / 能&lt;/font&gt; 生活在城市內.進一步的原因可能是parapox病毒, &lt;font style="background-color: #ffff00"&gt;(6) 殺 / 傷害&lt;/font&gt; 紅松鼠. &lt;font style="background-color: #ffff00"&gt;(7) 多數 / 少數&lt;/font&gt; 英國人支持消滅灰松鼠,因為紅松鼠 &lt;font style="background-color: #ffff00"&gt;(8) 是 / 不是&lt;/font&gt; 危害全球,他們可以引進英國.&lt;br&gt;
+&lt;pre&gt;
+(1) grey 灰   (2) fewer 更少   (3) pest 禍害   (4) fatter 肥   (5) able 能   (6) kills 殺   (7) Few 少數   (8) aren't 不是&lt;/pre&gt;&lt;/p&gt;</summary><category term="Book"></category></entry><entry><title>Unit_1-Game</title><link href="./Unit_1-Game.html" rel="alternate"></link><published>2017-09-27T21:29:00+08:00</published><updated>2017-09-27T21:29:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit_1-Game.html</id><summary type="html">&lt;p&gt;第一單元的遊戲&lt;/p&gt;
 
 
 &lt;!-- 第一單元的遊戲 --&gt;
@@ -25,7 +71,7 @@
 &lt;p&gt;提示: 難度太高,不好玩
 &lt;p&gt;
 Easy模式會有的形容詞:&lt;br&gt;
-&lt;pre&gt;fatal致命   heavy重   unkind刻薄   unpleasant不愉快的&lt;/pre&gt;&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Writing task</title><link href="./Unit%201-Writing%20task.html" rel="alternate"></link><published>2017-09-27T20:56:00+08:00</published><updated>2017-09-27T20:56:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Writing task.html</id><summary type="html">&lt;p&gt;第一單元的寫作任務&lt;/p&gt;
+&lt;pre&gt;fatal致命   heavy重   unkind刻薄   unpleasant不愉快的&lt;/pre&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_1-WritingTask</title><link href="./Unit_1-WritingTask.html" rel="alternate"></link><published>2017-09-27T20:56:00+08:00</published><updated>2017-09-27T20:56:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit_1-WritingTask.html</id><summary type="html">&lt;p&gt;第一單元的寫作任務&lt;/p&gt;
 
 
 &lt;!-- 第一單元的寫作任務 --&gt;
@@ -102,7 +148,7 @@ The world's polar bears are now less than 25,000.&lt;br&gt;
 瀕危物種:&lt;br&gt;
 全世界的北極熊現今只剩不到2萬5仟隻。
 &lt;p&gt;
-&lt;img src="./../data/Unit 1/4.Writing task/Polar bear.png" width="350" hspace="150"&gt;&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Writing skills</title><link href="./Unit%201-Writing%20skills.html" rel="alternate"></link><published>2017-09-27T20:42:00+08:00</published><updated>2017-09-27T20:42:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit 1-Writing skills.html</id><summary type="html">&lt;p&gt;第一單元的寫作技巧&lt;/p&gt;
+&lt;img src="./../data/Unit 1/4.Writing task/Polar bear.png" width="350" hspace="150"&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_1-WritingSkills</title><link href="./Unit_1-WritingSkills.html" rel="alternate"></link><published>2017-09-27T20:42:00+08:00</published><updated>2017-09-27T20:42:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-27:./Unit_1-WritingSkills.html</id><summary type="html">&lt;p&gt;第一單元的寫作技巧&lt;/p&gt;
 
 
 &lt;!-- 第一單元的寫作技巧 --&gt;
@@ -145,7 +191,7 @@ Update: &lt;font style="background-color: #FFFF33"&gt;Neither&lt;/font&gt; the A
 6. The American black bear is not large. The American black bear is not aggressive.&lt;br&gt;
 美國黑熊不多.美國黑熊沒侵略性.&lt;br&gt;
 Update: The American black bear is not large &lt;font style="background-color: #FFFF33"&gt;or&lt;/font&gt; aggressive.&lt;br&gt;
-美國黑熊沒數量或侵略性.&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Language development</title><link href="./Unit%201-Language%20development.html" rel="alternate"></link><published>2017-09-21T20:53:00+08:00</published><updated>2017-09-21T20:53:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit 1-Language development.html</id><summary type="html">&lt;p&gt;第一單元的語言發展&lt;/p&gt;
+美國黑熊沒數量或侵略性.&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_1-Language development</title><link href="./Unit_1-Language%20development.html" rel="alternate"></link><published>2017-09-21T20:53:00+08:00</published><updated>2017-09-21T20:53:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit_1-Language development.html</id><summary type="html">&lt;p&gt;第一單元的語言發展&lt;/p&gt;
 
 
 &lt;!-- 第一單元的語言發展 --&gt;
@@ -307,7 +353,7 @@ fill in: &lt;font style="background-color: #FFFF33"&gt;more endangered than&lt;/
 &lt;p&gt;
 6. The body of the Mongolian wild horse is [ 填寫 ] the body of the domestic horse. (big)&lt;br&gt;
 蒙古野馬的身體是 [ 填寫 ] 國內馬的身體. (大)&lt;br&gt;
-fill in: &lt;font style="background-color: #FFFF33"&gt;bigger than&lt;/font&gt;&lt;/p&gt;</summary><category term="Unit 1"></category></entry><entry><title>Unit 1-Reading skills</title><link href="./Unit%201-Reading%20skills.html" rel="alternate"></link><published>2017-09-21T00:25:00+08:00</published><updated>2017-09-21T00:25:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit 1-Reading skills.html</id><summary type="html">&lt;p&gt;第一單元的閱讀練習&lt;/p&gt;
+fill in: &lt;font style="background-color: #FFFF33"&gt;bigger than&lt;/font&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_1-ReadingSkills</title><link href="./Unit_1-ReadingSkills.html" rel="alternate"></link><published>2017-09-21T00:25:00+08:00</published><updated>2017-09-21T00:25:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-09-21:./Unit_1-ReadingSkills.html</id><summary type="html">&lt;p&gt;第一單元的閱讀練習&lt;/p&gt;
 
 
 &lt;!-- 第一單元的閱讀練習 --&gt;
@@ -418,4 +464,4 @@ Choose: increase the gene pool of the species&lt;br&gt;
 6.In 1992, sixteen horses were set free in Mongolia.&lt;br&gt;
 在1992,十六隻馬被釋放到蒙古&lt;br&gt;
 Choose: released&lt;br&gt;
-釋放&lt;/p&gt;</summary><category term="Unit 1"></category></entry></feed>
+釋放&lt;/p&gt;</summary><category term="Online"></category></entry></feed>
