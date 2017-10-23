@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/unlock.atom.xml" rel="self"></link><id>./</id><updated>2017-10-08T23:04:00+08:00</updated><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2017-10-08T23:04:00+08:00</published><updated>2017-10-08T23:04:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-08:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/unlock.atom.xml" rel="self"></link><id>./</id><updated>2017-10-24T00:40:00+08:00</updated><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2017-10-24T00:40:00+08:00</published><updated>2017-10-24T00:40:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-24:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
 
 
 &lt;!-- 這Title要停在最上方 所以時間要調到最新 --&gt;
 
-&lt;!-- 時間表: 2017-09-21 00:48 ~ 2017-09-27 21:41 ~ 2017-09-27 21:41 --&gt;
+&lt;!-- 時間表: 2017-09-21 00:48 ~ 2017-09-27 21:41 ~ 2017-10-08 23:04 ~ 2017-10-24 00:40 --&gt;
 
 &lt;hr&gt;
 
@@ -30,7 +30,376 @@
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_1-WritingSkills.html"&gt;WritingSkils&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_1-WritingTask.html"&gt;WritingTask&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_1-Game.html"&gt;Game&lt;/a&gt;
-&lt;/ul&gt;</summary><category term="目錄"></category></entry><entry><title>BookUnit_1-LosingTheBattleForSurvival (P.21~22)</title><link href="./BookUnit_1-LosingTheBattleForSurvival.html" rel="alternate"></link><published>2017-10-08T22:42:00+08:00</published><updated>2017-10-08T22:42:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-08:./BookUnit_1-LosingTheBattleForSurvival.html</id><summary type="html">&lt;p&gt;回家作業,完成P.22&lt;/p&gt;
+&lt;/ul&gt;
+&lt;li&gt;&lt;B&gt;Unit 2&lt;/B&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-ReadingSkills.html"&gt;ReadingSkills&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-LanguageDevelopment.html"&gt;LanguageDevelopment&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-WritingSkills.html"&gt;WritingSkils&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-WritingTask.html"&gt;WritingTask&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-Game.html"&gt;Game&lt;/a&gt;
+&lt;/ul&gt;</summary><category term="目錄"></category></entry><entry><title>Unit_2-Game</title><link href="./Unit_2-Game.html" rel="alternate"></link><published>2017-10-23T23:18:00+08:00</published><updated>2017-10-23T23:18:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-23:./Unit_2-Game.html</id><summary type="html">&lt;p&gt;第二單元的遊戲&lt;/p&gt;
+
+
+&lt;!-- 第一單元的遊戲 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Game&lt;/h3&gt;
+&lt;p&gt;有兩的選項&lt;br&gt;
+要選擇正確的句子(這些句子都是之前練習有出現過的)
+&lt;p&gt;
+&lt;img src="./../data/Unit 2/Online/5.Game/start.png" width="650" hspace="50"&gt;
+&lt;p&gt;
+選擇正確 會堆疊方塊 當方塊疊滿就完成遊戲
+&lt;p&gt;
+&lt;img src="./../data/Unit 2/Online/5.Game/end.png" width="650" hspace="50"&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_2-WritingTask</title><link href="./Unit_2-WritingTask.html" rel="alternate"></link><published>2017-10-23T23:14:00+08:00</published><updated>2017-10-23T23:14:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-23:./Unit_2-WritingTask.html</id><summary type="html">&lt;p&gt;第二單元的寫作任務&lt;/p&gt;
+
+
+&lt;!-- 第一單元的寫作任務 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 11: Writing task 寫作任務&lt;/h3&gt;
+&lt;p&gt;&lt;h2 align="center"&gt;Mid-Autumn Festival (August 15th)&lt;/h2&gt;
+&lt;h2 align="center"&gt;中秋節(八月十五)&lt;/h2&gt;&lt;/p&gt;
+&lt;h3&gt;Origin:&lt;/h3&gt;
+&lt;p&gt;Folklore believes that the Mid-Autumn Festival is to celebrate the autumn harvest, is a thankful sacrifice of the festival.&lt;/p&gt;
+&lt;h3&gt;起源:&lt;/h3&gt;
+&lt;p&gt;民俗學家認為中秋節是慶祝秋季豐收，是一個感謝神恩的節日
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Custom:&lt;/h3&gt;
+&lt;p&gt;People will go home to eat together, full moon, eat moon cake.&lt;/p&gt;
+&lt;h3&gt;習俗:&lt;/h3&gt;
+&lt;p&gt;人們會回到家中一起吃飯,賞月, 吃月餅.
+&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Change:&lt;/h3&gt;
+&lt;p&gt;There was no habit of barbecuing before, but in 2002, people began to pop barbecue, and now it is so.&lt;/p&gt;
+&lt;h3&gt;改變:&lt;/h3&gt;
+&lt;p&gt;以前沒有烤肉的習慣,但在2002年,人們開始流行烤肉,到現在也是如此.
+&lt;p&gt;
+&lt;img src="./../data/Unit 2/Online/4.Writing task/Mid-Autumu.png" width="350" hspace="150"&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_2-WritingSkills</title><link href="./Unit_2-WritingSkills.html" rel="alternate"></link><published>2017-10-23T23:10:00+08:00</published><updated>2017-10-23T23:10:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-23:./Unit_2-WritingSkills.html</id><summary type="html">&lt;p&gt;第二單元的寫作技巧&lt;/p&gt;
+
+
+&lt;!-- 第一單元的寫作技巧 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 8: Academic adjectives 學術形容詞&lt;/h3&gt;
+&lt;p&gt;Put the adjectives in the correct place in the table.&lt;br&gt;
+形容詞放入表格內正確的位子.
+&lt;p&gt;
+&lt;table border='5' width='100%' align='center'&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;General adjective&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;Academic adjective&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;short 短&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;brief 簡短&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;bad 壞&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;serious 嚴肅&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;different 不同&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;separate 分離&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;some 一些&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;certain 某些&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;powerful 強大&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;important 重要&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;clear 明顯&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;obvious 明顯&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;usual 通常&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFFFFF'&gt;common 常見&lt;/td&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 9: Unit vocabulary 單位詞彙&lt;/h3&gt;
+&lt;p&gt;Read the sentences and find the missing words to complete the word search.&lt;br&gt;
+閱讀句子並尋找失去的單字,完成單字搜索.
+&lt;p&gt;
+1. The b___ and groom invited many guests to the wedding.&lt;br&gt;
+MissingWord: bride&lt;br&gt;
+新娘和新郎邀請許多賓客到婚禮.
+&lt;p&gt;
+2. We got married at r___ o___.&lt;br&gt;
+MissingWord: registry office&lt;br&gt;
+我在登記所得到婚姻.
+&lt;p&gt;
+3. They aren’t married yet. He’s her f___.&lt;br&gt;
+MissingWord: fiance&lt;br&gt;
+他們還沒結婚.他是她的未婚夫.
+&lt;p&gt;
+4. A marriage ceremony and any celebrations such as a meal or party that follow it: ___g.&lt;br&gt;
+MissingWord: wedding&lt;br&gt;
+結婚儀式和任慶祝這餐飲和派對跟隨: 婚禮
+&lt;p&gt;
+5.Did you see her engagement r___ ?&lt;br&gt;
+MissingWord: ring&lt;br&gt;
+你有看到她的訂婚戒指嗎?
+&lt;p&gt;
+6. A document that shows two people are legally married: a marriage ___.&lt;br&gt;
+MissingWord: certificate&lt;br&gt;
+一個文件顯示兩人是法律上的婚姻: 結婚證書
+&lt;p&gt;
+7. Don’t be late for the ceremony, you must be p___ .&lt;br&gt;
+MissingWord: punctual&lt;br&gt;
+儀式不能遲到,你必須準時
+&lt;p&gt;
+8. The wedding r___n is at the hotel.&lt;br&gt;
+MissingWord: reception&lt;br&gt;
+在飯店內招待婚禮.
+&lt;p&gt;
+&lt;img src="./../data/Unit 2/Online/3.Writing skills/word.png" width="400" hspace="100"&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 10: Adding detail for interest 添加興趣的細節&lt;/h3&gt;
+&lt;p&gt;Rewrite the sentences below to add detail for interest.&lt;br&gt;
+改寫下方句子添加興趣的細節.使用給訂單字.
+&lt;p&gt;
+1. Families are important. (very)&lt;br&gt;
+Rewrite: Families are very important.&lt;br&gt;
+家庭是非常重要的.
+&lt;p&gt;
+2. People work there. (local)&lt;br&gt;
+Rewrite: Local people work there.&lt;br&gt;
+當地人在這工作.
+&lt;p&gt;
+3. Weddings are expensive. (in my country)&lt;br&gt;
+Rewrite: Weddings are expensive in my country.&lt;br&gt;
+在我國家婚禮是昂貴的.
+&lt;p&gt;
+4. Culture is interesting. (to some people)&lt;br&gt;
+Rewrite: Culture is interesting to some people.&lt;br&gt;
+文化對一些人是有趣的.
+&lt;p&gt;
+5. Languages are difficult. (can be)&lt;br&gt;
+Rewrite: Languages can be difficult.&lt;br&gt;
+語言很困難.&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_2-LanguageDevelopment</title><link href="./Unit_2-LanguageDevelopment.html" rel="alternate"></link><published>2017-10-23T16:04:00+08:00</published><updated>2017-10-23T16:04:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-23:./Unit_2-LanguageDevelopment.html</id><summary type="html">&lt;p&gt;第二單元的語言發展&lt;/p&gt;
+
+
+&lt;!-- 第一單元的語言發展 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 4: Vocabulary A 詞彙A&lt;/h3&gt;
+&lt;p&gt;Complete the sentences. Write no more than two words in each gap.&lt;br&gt;
+完成句子.在每個間隙寫不超過兩個字.
+&lt;p&gt;
+&lt;pre&gt;gift 禮物   punctual 準時   shake hands 握手   touch 接觸   kiss 親   dress formally 穿著正式&lt;/pre&gt;
+&lt;p&gt;
+1. In some countries women can greet each other with a [ Choose ].&lt;br&gt;
+在一些國家女人能招呼每個其他 [ 選擇 ].&lt;br&gt;
+Choose: kiss
+&lt;p&gt;
+2. In most countries it is important to be [ Choose ] for business meetings.&lt;br&gt;
+在大多數國家這是重要的 [ 選擇 ] 對於商業會議.&lt;br&gt;
+Choose: punctual
+&lt;p&gt;
+3. Generally it is more common for men to [ Choose ] when they meet.&lt;br&gt;
+通常男人更常見 [ 選擇 ] 當他們見面.&lt;br&gt;
+Choose: shake hands
+&lt;p&gt;
+4. In most countries you should bring a [ Choose ] if you visit someone’s house.&lt;br&gt;
+在許多國家你應該帶個 [ 選擇 ] 如果你拜法某人家.&lt;br&gt;
+Choose: gift
+&lt;p&gt;
+5. In some countries it is very important to [ Choose ] for business meetings.&lt;br&gt;
+在一些國家這是非常重要 [ 選擇 ] 對於商業會議.&lt;br&gt;
+Choose: dress formally
+&lt;p&gt;
+6. In a few countries people will [ Choose ] your arms or elbows when they speak to you.&lt;br&gt;
+在少數國家人們將 [ 選擇 ] 你手臂或手肘,當他們對你說話.&lt;br&gt;
+Choose: touch&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 5: Vocabulary B 詞彙 B&lt;/h3&gt;
+&lt;p&gt;Choose the correct words to complete the paragraph.
+選擇正確的字來完成段落.
+&lt;p&gt;
+&lt;pre&gt;1: registry office登記處  reception招待    2: bride新娘  groom新郎    3: bride新娘 groom新郎    4: wedding ceremony 婚禮儀式 registry office登記處    5: marriage certificate 結婚證書  marriage vow 結婚宣言    6: wedding 婚禮 marriage 婚姻    7: engagement 訂婚 fiancée 未婚妻    8: wedding ceremony 婚禮儀式  reception 招待     9: wedding list 婚禮名單   reception 招待&lt;/pre&gt;
+&lt;p&gt;
+注意: registry office登記處 代表:負責出生、死亡和婚姻登記，並可以辦理世俗結婚手續
+&lt;p&gt;
+Sarah and Mark got married at a [ Choose 1 ] in London last year. The [ Choose 2 ] wore a long white silk dress and the [ Choose 3 ] wore a dark formal suit. The [ Choose 4 ] was brief but very beautiful, especially the music that played when they signed the register and got their [ Choose 5 ] . During the ceremony, Mark gave Sarah a gold [ Choose 6 ] ring to wear on the third finger of her left hand, next to her diamond [ Choose 7 ] ring. After the [ Choose 8 ] , everyone went to a hotel where the [ Choose 9 ] was held.&lt;br&gt;
+Sarah和Mark已婚在 [ 選擇1 ] 的倫敦去年. [ 選擇2 ] 穿長白色的連身裙和 [選擇3 ] 穿黑暗正式西裝. [ 選擇4 ] 簡短,但非常美麗,特別的音樂當他們簽下註冊並得到他們的 [ 選擇5 ] . 在儀式期間,Mark給Sarah一個黃金 [ 選擇6 ] 戒指來帶在左手的第三手紙上,接下來鑽石 [ 選擇7 ] 戒指.之後 [ 選擇8 ] ,每個人去飯店 [ 選擇9 ]舉行.
+&lt;p&gt;
+Choose 1: registry office&lt;br&gt;
+Choose 2: bride&lt;br&gt;
+Choose 3: groom&lt;br&gt;
+Choose 4: wedding ceremony&lt;br&gt;
+Choose 5: marriage certificate&lt;br&gt;
+Choose 6: wedding ring&lt;br&gt;
+Choose 7: engagement&lt;br&gt;
+Choose 8: wedding ceremony&lt;br&gt;
+Choose 9: reception&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 6: Avoiding generalizations 避免一般化&lt;/h3&gt;
+&lt;p&gt;Rewrite the statements below to avoid generalizations, using the words in brackets. You will need to change the grammar of some sentences.&lt;br&gt;
+改寫下方語法避免一般化,使用括號內的單字.你將需要改變一些句子的語法.
+&lt;p&gt;
+1. Japanese businessmen are more formal than American businessmen. (tend to)&lt;br&gt;
+日本商人比美國商人更正式. (通常)&lt;br&gt;
+Change: &lt;br&gt;
+Japanese businessmen tend to be more formal than American businessmen.
+&lt;p&gt;
+2. People who live in rural areas are more traditional than people in cities. (often)&lt;br&gt;
+生活在農村的人比在城市的人更傳統. (通常)&lt;br&gt;
+Change:&lt;br&gt;
+People who live in rural areas are often more traditional than people in cities.
+&lt;p&gt;
+3. In Europe, people live in nuclear families. (frequently)&lt;br&gt;
+在歐洲,人們生活在核心家庭. (通常) 核心家庭: 一夫一妻跟子女組成的家庭&lt;br&gt;
+Change:&lt;br&gt;
+In Europe, people frequently live in nuclear families.
+&lt;p&gt;
+4. In some countries, personal relationships are important in business. (can)&lt;br&gt;
+在一些國家,商業的人際關係是很重要的. (能)&lt;br&gt;
+Change:&lt;br&gt;
+In some countries, personal relationships can be important in business.
+&lt;p&gt;
+5. In Britain, people get married when they are older. (usually)&lt;br&gt;
+在英國,人們當老了才結婚. (通常)&lt;br&gt;
+Change:&lt;br&gt;
+In Britain, people usually get married when they are older.
+&lt;p&gt;
+6. These days a woman keeps her maiden name after marriage. (sometimes)&lt;br&gt;
+這幾天,女人會保持她婚後的少女名字.&lt;br&gt;
+Change:&lt;br&gt;
+These days a woman sometimes keeps her maiden name after marriage.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 7: Adverbs of frequency 頻率副詞&lt;/h3&gt;
+&lt;p&gt;Put the words and phrases in the right order to make sentences.&lt;br&gt;
+放入單字和短句使句子順序正確.
+&lt;p&gt;
+1. The bride usually wears a white dress.&lt;br&gt;
+新娘通常穿白色的連身裙.
+&lt;p&gt;
+2. The groom’s gather often pays for the champagne.&lt;br&gt;
+新郎父親通常支付香檳.
+&lt;p&gt;
+3. The wedding ceremony is usually a very serious occasion.&lt;br&gt;
+婚禮儀式通常是非常嚴肅的場合.
+&lt;p&gt;
+4. Businessmen frequently exchange business cards when they first meet.&lt;br&gt;
+商業人通常交換商業名片,當他們第一次見面.
+&lt;p&gt;
+5. Sometimes a business colleague will invite you to his home.&lt;br&gt;
+有時商業同事會教請你去他家.
+&lt;p&gt;
+6. There is often a lot of laughing before a Chinese wedding.&lt;br&gt;
+通常在中國婚禮之前有不少笑聲.&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_2-ReadingSkills</title><link href="./Unit_2-ReadingSkills.html" rel="alternate"></link><published>2017-10-23T15:54:00+08:00</published><updated>2017-10-23T15:54:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-23:./Unit_2-ReadingSkills.html</id><summary type="html">&lt;p&gt;第二單元的閱讀練習&lt;/p&gt;
+
+
+&lt;!-- 第一單元的閱讀練習 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 1: Previewing 預覽&lt;/h3&gt;
+&lt;p&gt;Look at the photographs and complete the sentences.&lt;br&gt;
+看圖並完成句子
+&lt;p&gt;
+1. In an lndian wedding the bride has her [ choose ] painted with henna.&lt;br&gt;
+在印度婚禮的新娘 [ 選擇 ] 繪畫紋路&lt;br&gt;
+Choose: hands&lt;br&gt;
+&lt;img src="./../data/Unit 2/Online/1.Reading skills/henna.png" width="400" hspace="100"&gt;
+&lt;p&gt;
+2. In a Chinese wedding the bride and groom drink [ choose ].&lt;br&gt;
+在中國婚禮的新娘和新郎喝 [ 選擇 ]&lt;br&gt;
+Choose: tea&lt;br&gt;
+&lt;img src="./../data/Unit 2/Online/1.Reading skills/tea.png" width="400" hspace="100"&gt;
+&lt;p&gt;
+3. In a Malay wedding the bride and groom [ choose ].&lt;br&gt;
+在馬來西亞婚禮的新娘和新郎 [ 選擇 ]&lt;br&gt;
+Choose: have a serious ceremony&lt;br&gt;
+&lt;img src="./../data/Unit 2/Online/1.Reading skills/ceremony.png" width="400" hspace="100"&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 2: Reading for detail 閱讀細節&lt;/h3&gt;
+&lt;p&gt;Read the article. Choose the correct responses.&lt;br&gt;
+閱讀文章.選擇正確回應.
+&lt;p&gt;
+Malaysia – one country, three cultures&lt;br&gt;
+馬來西亞 – 一個國家,三個文化
+&lt;p&gt;
+&lt;img src="./../data/Unit 2/Online/1.Reading skills/henna.png" width="400" hspace="100"&gt;
+&lt;p&gt;
+Malaysia is a country where three very different cultures live and work side by side, each culture following its own traditions. This can be most clearly seen in the different marriage ceremonies of these groups: Malay, lndian and Chinese.&lt;br&gt;
+馬來西亞是一個國家,有三個非常不同的文化,生活和工作並肩.最能顯示不同的婚姻儀式: 馬來西亞, 印度, 中國.
+&lt;p&gt;
+In the Malay wedding tradition, a relative of the groom visits the bride’s house bringing gifts including sweets and the engagement ring. On the morning of the wedding day, the bride and groom each have a special bath as required in Islam. The centre of the traditional Malay wedding is the marriage vow, a promise which is said in front of the imam – the priest – and their relatives and friends. The imam asks everybody if they have heard the vow clearly, and when they say yes he finishes the ceremony with a doa – a prayer asking for blessings from god.&lt;br&gt;
+在馬來西亞婚禮傳統,新郎的親戚訪問新娘的家,送禮物要包含甜食和訂婚戒子.在婚禮當天早上,新娘和新郎當要特別的伊斯蘭浴.傳統馬來西亞婚禮的中心是婚姻宣言,在imam – 牧師 – 其他親戚和朋友前說一個承諾.imam問每個人,如果他們宣言有聽清楚,並說:[是]用doa完成儀式 – 祈禱請求神的祝福.
+&lt;p&gt;
+&lt;img src="./../data/Unit 2/Online/1.Reading skills/tea.png" width="400" hspace="100"&gt;
+&lt;p&gt;
+In some ways, the Malay wedding ceremony is similar to the Indian wedding ceremony. The Indian wedding ceremony tends to be the most complicated, with very strict wedding customs. The bride and groom eat no meat for several days before the wedding. On the morning of the wedding day, henna – a natural brown paint – is put on the bride’s hands and feet in beautiful designs. She them dresses in a brightly coloured sari and puts on the jewellery the groom has given her. No one wears white or black at the wedding, as these are the colours for funerals.&lt;br&gt;
+在一方面,馬來西亞婚禮儀式類似印度婚禮儀式.印度婚禮儀式通常很複雜,非常嚴肅婚禮習俗.新娘和新郎在婚禮前幾天不能吃肉.婚禮當天早上,henna – 天然棕色油漆 – 以美麗設計放在新娘的手和腳.她穿上明亮顏色的sari,並戴上新郎給她的首飾.沒人在婚禮上穿白色或黑色,這些顏色是葬禮再穿的.
+&lt;p&gt;
+&lt;img src="./../data/Unit 2/Online/1.Reading skills/ceremony.png" width="400" hspace="100"&gt;
+&lt;p&gt;
+Colour is also very important in the traditional Chinese wedding ceremony. Red, which means wealth and happiness, is used to decorate the bride’s house. As well as the marriage ceremony, two important tea ceremonies are performed on the wedding day. In the first one, the bride gives tea to her parents by herself, before the wedding ceremony. The second one is when the bride and groom give tea to his parents at the end of the wedding. The wedding ceremony itself starts with the groom coming to the bride’s house to collect his bride. However, the friends and relative of the bride try to stop him. Although this has a serious meaning, there is a lot of laughing and joking as the groom gets to his bride. The ceremony is very simple, with the bride and groom asking for blessings for their marriage. Unlike Malay and Indian weddings, the Chinese wedding has no priest or imam.&lt;br&gt;
+在傳統中國婚禮儀式裡顏色很重要.紅色代表財富和幸福,用來裝飾新娘的家.除了這婚姻儀式, 在婚禮當天演出兩次重要茶儀式.第一次,新娘得到茶,並給父母,在婚禮儀式之前.第二次,新娘和新郎得到茶,在婚禮結束給他們父母.婚禮儀式本身是由新郎去新娘家來接新娘.然而,新娘的朋友和親戚嘗試阻止她.雖然這有嚴肅意思,這有很多笑聲和玩笑在新郎得到新娘.這儀式非常簡單,新娘和新郎請求婚姻的祝福.不像馬來西亞和印度婚禮,中國婚禮沒有牧師或imam.
+&lt;p&gt;
+These three types of traditional weddings can still be found in Malaysia. However, young people today tend to choose simpler weddings to fit in with their busy lifestyles and financial circumstances.&lt;br&gt;
+三種類型的傳統婚禮仍然可以在馬來西亞找到.然而,現在的年輕人傾向選擇簡單的婚禮,適合繁忙的生活方式和財務狀況.
+&lt;p&gt;
+1. In the Malay tradition, a friend of the groom visits the bride’s house.&lt;br&gt;
+在馬來西亞傳統,新郎的朋友去辦訪新娘家.&lt;br&gt;
+Choose: False (是親戚,不是朋友)
+&lt;p&gt;
+2. On the morning of her wedding day, an Indian bride has henna painted on her hands and feet.&lt;br&gt;
+在婚禮當天早上,印度新娘有henna,繪畫在手和腳.&lt;br&gt;
+Choose: True
+&lt;p&gt;
+3. There are two tea ceremonies during a Chinese wedding and at each ceremony the bride and groom give tea to their parents.&lt;br&gt;
+在中國婚禮期間兩次茶的儀式,每次儀式新娘和新郎得到茶給他們父母.&lt;br&gt;
+Choose: False
+&lt;p&gt;
+4. The imam finishes the wedding ceremony when everyone has heard the vow clearly.&lt;br&gt;
+imam完成這婚禮儀式,當每個人清楚聽到宣言.&lt;br&gt;
+Choose: True (不是要說: [是]?)
+&lt;p&gt;
+5. The groom, in an Indian wedding gives jewellery to the bride’s mother.&lt;br&gt;
+在印度婚禮的新郎給新娘母親首飾.&lt;br&gt;
+Choose: Does not say (不是要給新娘?)
+&lt;p&gt;
+6. The Chinese groom has to pay his bride’s friends and relatives.&lt;br&gt;
+中國新郎付錢給新娘朋友和親戚&lt;br&gt;
+Choose: False&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 3: Reading for detail 閱讀細節&lt;/h3&gt;
+&lt;p&gt;Complete the sentences using the words in the box.&lt;br&gt;
+使用在框框內的字,完成句子.
+&lt;p&gt;
+1. In both Chinese and Malay weddings, the groom goes to collect the [ Choose ] from her house.&lt;br&gt;
+在中國和馬來西亞的婚禮,新郎去收集 [ 選擇 ] 從她家.&lt;br&gt;
+Choose: bride
+&lt;p&gt;
+2. An Indian bride and groom eat a [ Choose ] diet for several days before the wedding.&lt;br&gt;
+印度新娘和新郎吃 [ 選擇 ] 飲食在婚禮前幾天.&lt;br&gt;
+Choose: vegetarian
+&lt;p&gt;
+3. Before a Malay wedding, a [ Choose ] of the groom takes gifts to the bride.&lt;br&gt;
+馬來西亞婚禮前, [ 選擇 ] 新郎需要給新娘禮物.&lt;br&gt;
+Choose: relative
+&lt;p&gt;
+4. A Chinese bride serves tea to her [ Choose ] before the wedding ceremony.&lt;br&gt;
+中國的新娘把茶給 [ 選擇 ] ,在婚禮儀式之前.&lt;br&gt;
+Choose: parents
+&lt;p&gt;
+5. Because of their busy [ Choose ] . young people in Malaysia today tend to have small wedding.&lt;br&gt;
+因為忙碌 [ 選擇 ] .現今在馬來西亞的年輕人傾向小婚禮.&lt;br&gt;
+Choose: lives
+&lt;p&gt;
+6. At Indian funerals, people [ Choose ] in black and white clothes.&lt;br&gt;
+在印度葬禮,人們 [ 選擇 ] 黑色和白色衣服.&lt;br&gt;
+Choose: dress&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>BookUnit_1-LosingTheBattleForSurvival (P.21~22)</title><link href="./BookUnit_1-LosingTheBattleForSurvival.html" rel="alternate"></link><published>2017-10-08T22:42:00+08:00</published><updated>2017-10-08T22:42:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-08:./BookUnit_1-LosingTheBattleForSurvival.html</id><summary type="html">&lt;p&gt;回家作業,完成P.22&lt;/p&gt;
 
 
 &lt;!-- 第一單元的遊戲 --&gt;
