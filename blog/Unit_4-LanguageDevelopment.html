@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>Unit_4-LanguageDevelopment - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="./Unit_4-LanguageDevelopment.html">
+
+        <meta name="author" content="40423222" />
+        <meta name="keywords" content="Online" />
+        <meta name="description" content="第四單元的語言發展" />
+
+        <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Unit_4-LanguageDevelopment"/>
+        <meta property="og:url" content="./Unit_4-LanguageDevelopment.html"/>
+        <meta property="og:description" content="第四單元的語言發展"/>
+        <meta property="article:published_time" content="2018-01-17" />
+            <meta property="article:section" content="Unlock" />
+            <meta property="article:tag" content="Online" />
+            <meta property="article:author" content="40423222" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.united.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/pygments/monokai.css" rel="stylesheet">
+    <link href="./theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="2017Spring 協同產品設計實習 (虎尾科大MDE) ATOM Feed"/>
+
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushBash.js"></script>
+<script type='text/javascript'>
+	(function(){
+		var corecss = document.createElement('link');
+		var themecss = document.createElement('link');
+		var corecssurl = "https://chiamingyen.github.io/kmolab_data/files/syntaxhighlighter/css/shCore.css";
+		if ( corecss.setAttribute ) {
+				corecss.setAttribute( "rel", "stylesheet" );
+				corecss.setAttribute( "type", "text/css" );
+				corecss.setAttribute( "href", corecssurl );
+		} else {
+				corecss.rel = "stylesheet";
+				corecss.href = corecssurl;
+		}
+		document.getElementsByTagName("head")[0].insertBefore( corecss, document.getElementById("syntaxhighlighteranchor") );
+		var themecssurl = "https://chiamingyen.github.io/kmolab_data/files/syntaxhighlighter/css/shThemeDefault.css?ver=3.0.9b";
+		if ( themecss.setAttribute ) {
+				themecss.setAttribute( "rel", "stylesheet" );
+				themecss.setAttribute( "type", "text/css" );
+				themecss.setAttribute( "href", themecssurl );
+		} else {
+				themecss.rel = "stylesheet";
+				themecss.href = themecssurl;
+		}
+		//document.getElementById("syntaxhighlighteranchor").appendChild(themecss);
+		document.getElementsByTagName("head")[0].insertBefore( themecss, document.getElementById("syntaxhighlighteranchor") );
+	})();
+	SyntaxHighlighter.config.strings.expandSource = '+ expand source';
+	SyntaxHighlighter.config.strings.help = '?';
+	SyntaxHighlighter.config.strings.alert = 'SyntaxHighlighter\n\n';
+	SyntaxHighlighter.config.strings.noBrush = 'Can\'t find brush for: ';
+	SyntaxHighlighter.config.strings.brushNotHtmlScript = 'Brush wasn\'t configured for html-script option: ';
+	SyntaxHighlighter.defaults['pad-line-numbers'] = false;
+	SyntaxHighlighter.defaults['toolbar'] = false;
+	SyntaxHighlighter.all();
+</script>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+2017Spring 協同產品設計實習 (虎尾科大MDE)            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="./pages/about/">
+                             About
+                          </a></li>
+                        <li class="active">
+                            <a href="./category/unlock.html">Unlock</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><span>
+                <form class="navbar-search" action="./search.html">
+                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+                </form></span>
+              </li>
+              <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./Unit_4-LanguageDevelopment.html"
+                       rel="bookmark"
+                       title="Permalink to Unit_4-LanguageDevelopment">
+                        Unit_4-LanguageDevelopment
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2018-01-17T15:24:00+08:00"> Wed 17 January 2018</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40423222.html"><i class="fa fa-user"></i> 40423222</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/online.html">Online</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>第四單元的語言發展</p>
+
+
+<!-- 第四單元的語言發展 -->
+
+<hr>
+
+<h3>Exercise 4: Collocations 配對</h3>
+<p>Choose the correct words to complete the paragraph.<br>
+選擇正確的字來完成段落.
+<p>
+In every city in the world, the worst time for traffic <span style="background-color: #ffff00">congestion</span> is the rush <span style="background-color: #ffff00">hour</span> in the morning and the evening. Different cities have reached different solutions to this problem. For example, in London there is a congestion <span style="background-color: #ffff00">charge</span> which makes it expensive to drive in the centre of the city. This encourages people to travel by public <span style="background-color: #ffff00">transport</span> or to use bicycles. To help cyclists in London, special cycle <span style="background-color: #ffff00">lanes</span> have been created. In Canada, car <span style="background-color: #ffff00">sharing</span> is encourage, with special lanes on the motorway for cars with more than one person inside. In old cities where the roads are narrow, parking <span style="background-color: #ffff00">restrictions</span> can be introduced to stop parked cars blocking traffic.<br>
+全世界的城市,最糟糕的時間是早晨和夜晚,是塞車的巔峰期.不同城市有不同的解決方案.例如在倫敦的擁堵費,進入城市要昂貴的費用.鼓勵旅行時搭乘大眾交通工具或是騎自行車.幫助在倫敦騎自行車的人,建立特別的腳踏車步道.在加拿大,鼓勵租借汽車(汽車分享),租借的車在公路旁有專門的道路.在老舊的城市道路狹窄,能採用停車限制來停止停車,防止道路堵塞.</p>
+<hr>
+
+<h3>Exercise 5: Academic synonyms 學術代名詞</h3>
+<p>Complete the table using the words in the box.
+使用方框內的字來完成表格.
+<p>
+<table border="5" width="70%" align="left">
+<td style="text-align:center" bgcolor='#FFD78C'>Academic verb 學術動詞</td>
+<td style="text-align:center" bgcolor='#FFD78C'>Common verb 普通動詞</td>
+<tr>
+<td style="text-align:center">prevent 避免</td>
+<td style="text-align:center">stop 停止</td>
+<tr>
+<td style="text-align:center">select 選擇</td>
+<td style="text-align:center">choose 選擇</td>
+<tr>
+<td style="text-align:center">attempt 嘗試</td>
+<td style="text-align:center">try 嘗試</td>
+<tr>
+<td style="text-align:center">consider 考慮</td>
+<td style="text-align:center">think about 思考</td>
+<tr>
+<td style="text-align:center">convince 說服</td>
+<td style="text-align:center">get 得到</td>
+<tr>
+<td style="text-align:center">realize 實現</td>
+<td style="text-align:center">understand 理解</td>
+<tr>
+<td style="text-align:center">organize 組織</td>
+<td style="text-align:center">run 跑;執行</td>
+<tr>
+<td style="text-align:center">require 需求</td>
+<td style="text-align:center">need 需要</td>
+</table>
+<!-- 防止表格把文字給覆蓋 -->
+<table border="5" width="100%" align="center">
+</table></p>
+<hr>
+
+<h3>Exercise 6: Word formation 詞的構造</h3>
+<p>Complete the table.<br>
+完成表格
+<p>
+<table border="5" width="90%" align="center">
+<tr>
+<td style="text-align:center" bgcolor='#FFD78C'>Verb 動詞</td>
+<td style="text-align:center" bgcolor='#FFD78C'>Noun 名詞</td>
+<td style="text-align:center" bgcolor='#FFD78C'>Adjective形容詞</td>
+<tr>
+<td style="text-align:center">prevent 避免</td>
+<td style="text-align:center">prevention 阻止</td>
+<td style="text-align:center">preventable 預防</td>
+<tr>
+<td style="text-align:center">select 選擇</td>
+<td style="text-align:center">selection 選擇</td>
+<td style="text-align:center">selected 選</td>
+<tr>
+<td style="text-align:center">attempt 嘗試</td>
+<td style="text-align:center">attempt 嘗試</td>
+<td style="text-align:center">attemptable</td>
+<tr>
+<td style="text-align:center">consider 考慮</td>
+<td style="text-align:center">consideration 考慮</td>
+<td style="text-align:center">considered 考慮</td>
+<tr>
+<td style="text-align:center">convince 說服</td>
+<td style="text-align:center">Nothing</td>
+<td style="text-align:center">convincing 使人相信</td>
+<tr>
+<td style="text-align:center">realize 實現</td>
+<td style="text-align:center">realization 實現</td>
+<td style="text-align:center">Nothing</td>
+<tr>
+<td style="text-align:center">organize 組織</td>
+<td style="text-align:center">organization 組織</td>
+<td style="text-align:center">organized 安排</td>
+<tr>
+<td style="text-align:center">require 需求</td>
+<td style="text-align:center">requirement 必要條件</td>
+<td style="text-align:center">required 需要</td>
+</table></p>
+<hr>
+
+<h3>Exercise 7: Condition clauses 條件子句</h3>
+<p>Link the pairs of sentences using if and will/won't.<br>
+使用if will won't 連結句子
+<p>
+1. If public transport is made cheaper, more people will use public transport.<br>
+如果大眾交通工具使用便宜,將會有更多人使用.
+<p>
+2. If more people use public transport, there will be less pollution form cars.<br>
+如果更多人使用大眾交通工具,將減少車子造成的汙染.
+<p>
+3. If there is less pollution form cars, children will be healthier.<br>
+如果減少車子造成的汙染,孩子將會更健康.
+<p>
+4. If there is less traffic congestion, people won’t get road rage.<br>
+如果減少塞車,人們就不會憤怒.
+<p>
+5. If wearing seat belt become compulsory, fewer people will die in road accidents.<br>
+如果系上安全帶是規定,更少人死於車禍.</p>
+<hr>
+
+<h3>Exercise 8: Conditional clauses 附帶條件子句</h3>
+<p>Put the words and phrases in the right order to make conditional sentences.<br>
+按照附帶條件句子的順序,放置文字和短句.
+<p>
+<img src="./../data/Unit 4/Online/2.Language development/train.png" width="340" align="left" hspace='10' vspace='10'>
+<p>
+1. If people drive more carefully, there will be fewer accidents.<br>
+如果開車注重安全,車禍將會更少.
+<p>
+2. If people live near their work, they will be able to walk home.<br>
+如果離工作不遠,將能走路回家
+<p>
+3. If there is a bridge over the river, people will not use the ferry.<br>
+如果橋能過河,將不用搭船.
+<p>
+4. If public transport is good, people will use it instead of their cars.<br>
+如果大眾交通工具是好的,將會取代車子.
+<p>
+5. If young people realize the dangers of speed, they will drive more carefully.<br>
+如果年輕人意識到速度的危險,將會更安全駕駛.
+<p>
+6. If people turn of their phones when driving, there will be fewer accidents.<br>
+如果在開車時關到手機,車禍將減少.</p>
+<hr>
+
+<h3>Exercise 9: Vocabulary 詞彙</h3>
+<p>Read the clues and then fined the academic vocabulary in the word search.<br>
+閱讀提示再找字遊戲中尋找學術詞彙.
+<p>
+1. to try to something, especially something difficult: attempt<br>
+嘗試做某件事,特別困難的事情: 嘗試
+<p>
+2. to spend time thinking about a possibility or making a decision: consider<br>
+花時間想關於可能行的,或花時間做出決定: 思考
+<p>
+3. to persuade someone or make them certain: convince<br>
+說服某人使他們確定: 說服
+<p>
+4. a subject or problem that people are thinking and talking about: issue<br>
+人們思考並交談關於課程或問題: 問題
+<p>
+5. more important, bigger, or more serious than others of the same type: major<br>
+比其他同類更重要更大或更嚴重: 主要
+<p>
+6. to stop something from happening or someone from doing something: prevent<br>
+停止某件事,或停止某人做某件事: 避免
+<p>
+7. to need something or make something necessary: require<br>
+需要某東西,或需要必須使用: 需要
+<p>
+8. to choose someone or something from a group: select<br>
+在組合中選擇某人或某件事: 選擇</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
+                <ul class="list-group" id="recentposts">
+                    <li class="list-group-item">
+                        <a href="./Contents.html">
+                            目錄
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./Unit_5-Game.html">
+                            Unit_5-Game
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./Unit_5-WritingTask.html">
+                            Unit_5-WritingTask
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./Unit_5-WritingSkills.html">
+                            Unit_5-WritingSkills
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./Unit_5-LanguageDevelopment.html">
+                            Unit_5-LanguageDevelopment
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="list-group-item"><a href="./categories.html"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Categories</span></h4></a>
+                <ul class="list-group" id="categories">
+                    <li class="list-group-item">
+                        <a href="./category/unlock.html">
+                            <i class="fa fa-folder-open fa-lg"></i> Unlock
+                        </a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="list-group-item"><a href="./tags.html"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group list-inline tagcloud" id="tags">
+                </ul>
+            </li>
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://getpelican.com/" target="_blank">
+                Pelican
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://github.com/DandyDev/pelican-bootstrap3/" target="_blank">
+                pelican-bootstrap3
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://github.com/getpelican/pelican-plugins" target="_blank">
+                pelican-plugins
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://github.com/Tipue/Tipue-Search" target="_blank">
+                Tipue search
+            </a>
+        </li>
+      </ul>
+    </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2018 KMOL
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- for https://github.com/jsor/lity lightbox video popup -->
+
+<link href="./theme/css/lity.css" rel="stylesheet">
+
+<script src="./theme/js/lity.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+
+</body>
+</html>

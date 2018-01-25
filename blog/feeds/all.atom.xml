@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-10-24T00:40:00+08:00</updated><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2017-10-24T00:40:00+08:00</published><updated>2017-10-24T00:40:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-24:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-01-19T20:10:00+08:00</updated><entry><title>目錄</title><link href="./Contents.html" rel="alternate"></link><published>2018-01-19T20:10:00+08:00</published><updated>2018-01-19T20:10:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Contents.html</id><summary type="html">&lt;p&gt;閱覽所有的資料&lt;/p&gt;
 
 
 &lt;!-- 這Title要停在最上方 所以時間要調到最新 --&gt;
 
-&lt;!-- 時間表: 2017-09-21 00:48 ~ 2017-09-27 21:41 ~ 2017-10-08 23:04 ~ 2017-10-24 00:40 --&gt;
+&lt;!-- 時間表: 2017-09-21 00:48 ~ 2017-09-27 21:41 ~ 2017-10-08 23:04 ~ 2017-10-24 00:40 ~ 2018-01-19 20:10 --&gt;
 
 &lt;hr&gt;
 
@@ -38,7 +38,702 @@
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-WritingSkills.html"&gt;WritingSkils&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-WritingTask.html"&gt;WritingTask&lt;/a&gt;
 &lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_2-Game.html"&gt;Game&lt;/a&gt;
-&lt;/ul&gt;</summary><category term="目錄"></category></entry><entry><title>Unit_2-Game</title><link href="./Unit_2-Game.html" rel="alternate"></link><published>2017-10-23T23:18:00+08:00</published><updated>2017-10-23T23:18:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-23:./Unit_2-Game.html</id><summary type="html">&lt;p&gt;第二單元的遊戲&lt;/p&gt;
+&lt;/ul&gt;
+&lt;li&gt;&lt;B&gt;Unit 4&lt;/B&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_4-ReadingSkills.html"&gt;ReadingSkills&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_4-LanguageDevelopment.html"&gt;LanguageDevelopment&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_4-WritingSkills.html"&gt;WritingSkils&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_4-WritingTask.html"&gt;WritingTask&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_4-Game.html"&gt;Game&lt;/a&gt;
+&lt;/ul&gt;
+&lt;li&gt;&lt;B&gt;Unit 5&lt;/B&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_5-ReadingSkills.html"&gt;ReadingSkills&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_5-LanguageDevelopment.html"&gt;LanguageDevelopment&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_5-WritingSkills.html"&gt;WritingSkils&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_5-WritingTask.html"&gt;WritingTask&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://40423222.github.io/Unlock/blog/Unit_5-Game.html"&gt;Game&lt;/a&gt;
+&lt;/ul&gt;</summary><category term="目錄"></category></entry><entry><title>Unit_5-Game</title><link href="./Unit_5-Game.html" rel="alternate"></link><published>2018-01-19T19:54:00+08:00</published><updated>2018-01-19T19:54:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Unit_5-Game.html</id><summary type="html">&lt;p&gt;第五單元的遊戲&lt;/p&gt;
+
+
+&lt;!-- 第五單元的遊戲 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Game:&lt;/h3&gt;
+&lt;p&gt;會顯示幾個隔空格,點擊下方鍵盤來配對出正確的單字
+&lt;p&gt;
+&lt;img src="./../data/Unit 5/Online/5.Game/playing.png" width="650" hspace="50"&gt;
+&lt;p&gt;
+選擇正確會進入下一關,配對完十關就完成遊戲
+&lt;p&gt;
+&lt;img src="./../data/Unit 5/Online/5.Game/level complete.png" width="650" hspace="50"&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_5-WritingTask</title><link href="./Unit_5-WritingTask.html" rel="alternate"></link><published>2018-01-19T19:43:00+08:00</published><updated>2018-01-19T19:43:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Unit_5-WritingTask.html</id><summary type="html">&lt;p&gt;第五單元的寫作任務&lt;/p&gt;
+
+
+&lt;!-- 第五單元的寫作任務 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 11: Writing task 寫作任務&lt;/h3&gt;
+&lt;p&gt;Think of an environmental problem facing your country. What are the reasons for this problem? What will the consequences be if no solution is found?&lt;br&gt;
+思考自己國家的環境為題.有什麼解決辦法?如果沒有解決會有什麼後果?
+&lt;p&gt;
+&lt;h2 align="center"&gt;Air pollution&lt;/h2&gt;
+&lt;pre&gt;
+Sometimes the tiger tail air is full of stink.When night can obviously see the fog under the street lamp,
+on the outside of the locomotive, a few days after the surface will have a layer of ash. People dare to
+go out exercise.
+有時虎尾的空氣充滿了臭味.晚上時能在路燈下明顯的看見霧,放在外面的機車,幾天後表面會有一層灰.讓人不敢出外運動.&lt;/p&gt;
+&lt;p&gt;These toxic gases are discharged from the factory, in order to save money so toxic gas emissions at will,
+ causing the city full of gas.
+這些有毒氣體都是工廠排出來的,為了省錢所以將有毒氣體隨意排放,造成城市充滿了毒氣.&lt;/p&gt;
+&lt;p&gt;The most effective solution, less out to reduce exposure to toxic gases, go out to wear a mask, buy air cleaner,
+ the room of toxic gases cleared of If you do not have the above points, your lungs will lose their function, 
+Will die early, and even if you do these things, the natural environment will be polluted sooner or later,
+will not be able to live here.
+最有效的解決辦法,少出門減少接觸到有毒氣體,出門時要戴上口罩,買空氣清淨機,把房間的有毒氣體清除.如果沒辦法做到以上幾點,你的肺
+將會失去功能,會早死.而且就算你有做到這幾點,自然環境遲早也會被汙染,這裡將不能再居住.
+&lt;/pre&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_5-WritingSkills</title><link href="./Unit_5-WritingSkills.html" rel="alternate"></link><published>2018-01-19T18:36:00+08:00</published><updated>2018-01-19T18:36:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Unit_5-WritingSkills.html</id><summary type="html">&lt;p&gt;第五單元的寫作技巧&lt;/p&gt;
+
+
+&lt;!-- 第五單元的寫作技巧 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 7: Cause and effect 原因和影響&lt;/h3&gt;
+&lt;p&gt;Choose true or false for each statement.&lt;br&gt;
+對敘述選擇真的或假的
+&lt;p&gt;
+&lt;pre&gt;
+Melting glaciers are caused by higher temperatures.
+冰川融化是因為溫度上升.
+Choose: True&lt;/p&gt;
+&lt;p&gt;Higher temperatures lead to increased greenhouse gases.
+溫度上升引導溫室氣體增加.
+Choose: False&lt;/p&gt;
+&lt;p&gt;Burning fossil fuels is the result of more greenhouse gases.
+燃燒化石燃料的結果是更多溫室氣體.
+Choose: False&lt;/p&gt;
+&lt;p&gt;Deforestation is caused by commercial agriculture and subsistence farming.
+砍伐樹林來建立商業性農場和私人農場.
+Choose: True&lt;/p&gt;
+&lt;p&gt;Deforestation results in soil erosion.
+砍伐樹林的結果是土地流失.
+Choose: True&lt;/p&gt;
+&lt;p&gt;Using renewable energy sources is the result of improvement of the environment.
+使用再生能源的結果是改善環境.
+Choose: False
+&lt;/pre&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 8: Using because and because of 使用because 和 because of&lt;/h3&gt;
+&lt;p&gt;Choose the correct words to complete the sentences.&lt;br&gt;
+選擇正確的字來完成這句子.
+&lt;p&gt;
+because of  屬於: 介係詞 &lt;br /&gt;
+相關說明: &lt;a href="https://tw.blog.voicetube.com/archives/39456"&gt;https://tw.blog.voicetube.com/archives/39456&lt;/a&gt;
+&lt;p&gt;
+1. The amount of greenhouse gas is increasing &lt;span style="background-color: #ffff00"&gt;because of&lt;/span&gt; the amount of fossil fuels we are burning.&lt;br&gt;
+溫室氣體總量在增加,因為燃燒化石燃料.
+&lt;p&gt;
+2. We need to find alternative sources of energy &lt;span style="background-color: #ffff00"&gt;because&lt;/span&gt; burning fossil fuels is damaging the environment.&lt;br&gt;
+我們需要尋找替代能源,因為燃燒化石燃料是傷害環境.
+&lt;p&gt;
+3. Abu Dhabi is a good place to build a solar power plant &lt;span style="background-color: #ffff00"&gt;because&lt;/span&gt; there is plenty of sun and unused space in the desert.&lt;br&gt;
+Abu Dhabi是個建立太陽能發電廠的好地方,因為這地方有豐富的陽光和未被使用的沙漠地區.
+&lt;p&gt;
+4. Canada is able to produce a lot of hydroelectricity &lt;span style="background-color: #ffff00"&gt;because of&lt;/span&gt; the Niagara Falls.&lt;br&gt;
+加拿大能生產不少的水力發電,因為Niagara瀑布.
+&lt;p&gt;
+5. Many glaciers in the world are beginning to melt &lt;span style="background-color: #ffff00"&gt;because of&lt;/span&gt; global warming.&lt;br&gt;
+世界上許多冰川開始融化,因為全球暖化.
+&lt;p&gt;
+6. Many glaciers in the world are beginning to melt &lt;span style="background-color: #ffff00"&gt;because&lt;/span&gt; the planet is getting warmer.&lt;br&gt;
+世界上許多冰川開始融化,因為行星變溫暖.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 9: Topic sentences 主題句子&lt;/h3&gt;
+&lt;p&gt;Match the sentence halves.&lt;br&gt;
+匹配半個句子.
+&lt;p&gt;
+1. Our increasing need for energy &lt;span style="background-color: #ffff00"&gt;is causing damage to the environment.&lt;/span&gt;&lt;br&gt;
+我們需要增加能源,這造成環境傷害.
+&lt;p&gt;
+2. The environment can be improved by using renewable energy sources &lt;span style="background-color: #ffff00"&gt;such as solar and hydroelectric power.&lt;/span&gt;&lt;br&gt;
+使用太陽能和水力發電,這些再生能源能改善環境.
+&lt;p&gt;
+3. Animals are suffering because of the destruction of their habitat, which &lt;span style="background-color: #ffff00"&gt;is caused by global warming and deforestation.&lt;/span&gt;&lt;br&gt;
+全球暖化和砍伐森林使動物痛苦,因為棲息地被破壞.
+&lt;p&gt;
+4. Countries in Northern Europe are not very good places to build solar power plants because &lt;span style="background-color: #ffff00"&gt;they do not have much sunshine.&lt;/span&gt;&lt;br&gt;
+北歐這國家不是建立太陽能發電的好地方,因為這裡沒有很多太陽.
+&lt;p&gt;
+5. Hydroelectric power station can be found in countries like Canada, &lt;span style="background-color: #ffff00"&gt;where there is a lot of water.&lt;/span&gt;&lt;br&gt;
+像加拿大的國家能發現水力發電廠,這裡有不少水.
+&lt;p&gt;
+6. There are several ways in which we &lt;span style="background-color: #ffff00"&gt;can help improve our environment.&lt;/span&gt;&lt;br&gt;
+有幾個方法能幫助改善我們的環境.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 10: Topic sentences and paragraph structure 主題句和段落結構&lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;Put the sentences in order to make a paragraph about wind power.&lt;br&gt;
+放置句子來完成關於風力的段落.
+&lt;p&gt;
+As well as solar and hydroelectric power, wind power is now being used to generate electricity.&lt;br&gt;
+現在使用太陽能和水力跟風力來發電.
+&lt;p&gt;
+&lt;pre&gt;
+In America, China and many countries in Europe, wind farms are being built.
+在美國和中國跟歐洲許多國家建立風力發電廠.&lt;/p&gt;
+&lt;p&gt;Each of these wind farms is made up of anything between three and several hundred wind turbines.
+每個風力發電廠都有三到數百個的風力發電機.&lt;/p&gt;
+&lt;p&gt;There are advantages and disadvantages to onshore wind farms.
+陸地上的風力發電廠的優點和缺點.
+說明: onshore陸地上   offshore 海上&lt;/p&gt;
+&lt;p&gt;Onshore wind farms are closer to where the energy is needed, but because of the way wind travels over land they are not very productive.
+陸地上的風力發電廠靠近需要能源的地區,但風力會被陸地而削弱.
+&lt;/pre&gt;
+&lt;p&gt;
+Along with the sun and water, the wind is now being used as a clean way to generate energy and in the future we will see more wind turbines in our landscape.&lt;br&gt;
+太陽和水跟風是現在乾淨生產能源的方法,在未來我們將看到更多風力發電機.
+&lt;p&gt;
+&lt;img src="./../data/Unit 5/Online/3.Writing skills/wind turbine.png" width="150"&gt;
+&lt;img src="./../data/Unit 5/Online/3.Writing skills/wind turbine.png" width="150" hspace="175"&gt;
+&lt;img src="./../data/Unit 5/Online/3.Writing skills/wind turbine.png" width="150"&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_5-LanguageDevelopment</title><link href="./Unit_5-LanguageDevelopment.html" rel="alternate"></link><published>2018-01-19T17:51:00+08:00</published><updated>2018-01-19T17:51:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Unit_5-LanguageDevelopment.html</id><summary type="html">&lt;p&gt;第五單元的語言發展&lt;/p&gt;
+
+
+&lt;!-- 第五單元的語言發展 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 5: Vocabulary_A 詞彙A&lt;/h3&gt;
+&lt;p&gt;Choose the correct words to complete the sentences.&lt;br&gt;
+選擇正確的字來完成句子.
+&lt;p&gt;
+1. If the sea rises by even a small amount, many low – lying islands will be &lt;span style="background-color: #ffff00"&gt;submerged&lt;/span&gt;.&lt;br&gt;
+如果海平面少量的上升,許多盆地島嶼將被淹沒.
+&lt;p&gt;
+2. A &lt;span style="background-color: #ffff00"&gt;glacier&lt;/span&gt; is a large mass of ice which moves very slowly.&lt;br&gt;
+冰川是巨大的冰塊行動非常慢.
+&lt;p&gt;
+3. About a quarter of the land on earth is used for &lt;span style="background-color: #ffff00"&gt;agriculture&lt;/span&gt;.&lt;br&gt;
+地球上四分之一的土地使用於農業.
+&lt;p&gt;
+4. One cause of deforestation is &lt;span style="background-color: #ffff00"&gt;subsistence&lt;/span&gt; farming.&lt;br&gt;
+自製化農場是砍伐森林的原因之一.
+&lt;p&gt;
+5. Biodiversity is also &lt;span style="background-color: #ffff00"&gt;affected&lt;/span&gt; by deforestation.&lt;br&gt;
+砍伐森林會影響生物多樣性.
+&lt;p&gt;
+6. The &lt;span style="background-color: #ffff00"&gt;effects&lt;/span&gt; of deforestation are damaging the natural habitat of many animals.&lt;br&gt;
+砍伐森林會影響自然生態,傷害許多動物.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 6: Vocabulary_B 詞彙 B&lt;/h3&gt;
+&lt;p&gt;Match the causes to the effects.&lt;br&gt;
+配對原因的影響.
+&lt;p&gt;
+&lt;table border="5" width="70%" align="left"&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;Cause 原因&lt;/td&gt;
+&lt;td style="text-align:center"  bgcolor='#FFD78C'&gt;Effect 影響&lt;/td&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center"&gt;greenhouse gases 溫室氣體&lt;/td&gt;
+&lt;td  style="text-align:center"&gt;global warming 全球暖化&lt;/td&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center"&gt;melting glaciers 融化的冰川&lt;/td&gt;
+&lt;td  style="text-align:center"&gt;rising sea levels 海平面上升&lt;/td&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center"&gt;droughts 乾旱&lt;/td&gt;
+&lt;td  style="text-align:center"&gt;aridity 乾旱&lt;/td&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center"&gt;deforestation 砍伐樹林&lt;/td&gt;
+&lt;td  style="text-align:center"&gt;loss of habitat 棲息地減少&lt;/td&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center"&gt;fossil fuels 化石燃料&lt;/td&gt;
+&lt;td  style="text-align:center"&gt;carbon dioxide 二氧化碳&lt;/td&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center"&gt;logging 木材&lt;/td&gt;
+&lt;td  style="text-align:center"&gt;deforestation 砍伐樹林&lt;/td&gt;
+&lt;/table&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_5-ReadingSkills</title><link href="./Unit_5-ReadingSkills.html" rel="alternate"></link><published>2018-01-19T17:13:00+08:00</published><updated>2018-01-19T17:13:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Unit_5-ReadingSkills.html</id><summary type="html">&lt;p&gt;第五單元的閱讀練習&lt;/p&gt;
+
+
+&lt;!-- 第五單元的閱讀練習 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 1: Using visuals to predict content. 觀看來預測內容&lt;/h3&gt;
+&lt;p&gt;&lt;p&gt;
+1.&lt;br&gt;
+&lt;img src="./../data/Unit 5/Online/1.Reading skills/solar power plant.png" width="400"&gt;&lt;br&gt;
+This picture shows a solar power plant.&lt;br&gt;
+太陽能發電廠的圖片&lt;br&gt;
+The place is in Abu Dhabi&lt;br&gt;
+在阿布扎比
+&lt;p&gt;
+2.&lt;br&gt;
+&lt;img src="./../data/Unit 5/Online/1.Reading skills/hydroelectric power plant.png" width="400"&gt;&lt;br&gt;
+This picture shows a hydroelectric power station.&lt;br&gt;
+水力發電廠的圖片&lt;br&gt;
+The place is in Canada.&lt;br&gt;
+在加拿大&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 2: Reading for main ideas. 閱讀重點&lt;/h3&gt;
+&lt;p&gt;Read the article. Put the ideas in the order they are mentioned.&lt;br&gt;
+閱讀文章.放置提到的點子順序.
+&lt;p&gt;
+&lt;b&gt;The future has to be green   未來要是綠色&lt;/b&gt;&lt;br&gt;
+There is no doubt that our planet is getting warmer and it is generally agreed that is caused by the high levels of greenhouse gasses, such as carbon dioxide (CO2), in the atmosphere. There gases are created when we burn fossil fuels for energy. However, there are renewable source of energy which can be used as greener alternative to fossil fuels. This essay will look at two of the major alternative sources of energy: solar and hydroelectric. It will conclude that more of our power need should come from these energy sources if we are to reduce the speed of global warming.&lt;br&gt;
+不要懷疑我們的星球正在暖化,因為有高壓的溫室氣體(二氧化碳),在大氣層.當我們燃燒化石燃料取得能量時,就會產生這氣體.然而再生能源能更環保的取代化石燃料.文章有兩個主要的替代能源:太陽能和水力.結論,多使用這些能源能減少全球暖化的速度.
+&lt;p&gt;
+A lot of countries in the Gulf do not only have plenty of oil but also plenty of sun. This sunshine, together with a lot of unused desert land, means that they are the ideal locations to build solar power plants. Indeed, one of the largest solar power plants in the world is the Shams 1 plant in Abu Dhabi. The plant consists of over 258,000 mirrors, covering an area larger than 285 football pitches. The solar plant works by using the mirror to focus heat onto pipes, which are filled with a special type of oil. The heated oil is then used to produce steam, which drives the turbines that change mechanical energy into electrical energy, just like in a traditional electricity generating plant. The energy from this plant is enough to power over 20,000 home. To produce this much power from fossil fuels, over 175,000 tons of CO2 would be pumped into the air every year.&lt;br&gt;
+許多國家有海灣,海灣不只有充足的油也有充足的太陽.許多未使用的沙漠區域有陽光,在這些地方建立太陽能發電廠.確實,世界最大的太陽能發電廠之一在Abu Dhabi的Shams工廠.這工廠由超過258,000個鏡子組成,覆蓋這區域285個足球場的大小.太陽能發電廠的運作由鏡子將熱聚焦到管子上,管子填充特殊的油.油加熱後產生蒸氣,蒸氣啟動渦輪機將機械能轉成電能,就像傳統的發電機.工廠產生的能量足夠提供20,000家庭使用.化石燃料產生許多電能,每年超過175,000頓的二氧化碳排到空中.
+&lt;p&gt;
+A country like Canada does not have as much sun as countries in the Middle East, but it does have plenty of water. Nearly 60% of Canada’s electricity comes from hydroelectric power, making it one of few countries which generates most of its power from renewable sources. One of the most important hydroelectric power stations is the one in the Niagara River, near to the world-famous Niagara Falls. Between 50% and 70% of the water from the river goes through four huge tunnels before the waterfalls. This water then passes through special turbines which provide energy to nearby areas of Canada and United States. Once the water has passes through the turbines, it is then returned to the river after waterfalls.&lt;br&gt;
+加拿大這國家沒有像中東國家有許多陽光,但有豐富的水.加拿大幾乎60%的電力來自水力發電,是使用再生能源的少數國家之一.Niagara河川是重要的水力發電廠之一,靠近世界知名的Niagara瀑布.這瀑布50%到70%的水從河川通過四大隧道而來.水通過特殊的渦輪提供能量給加拿大和美國附近的區域.一旦水經過渦輪,水會回到河川之後流到瀑布.
+&lt;p&gt;
+The Middle East has nearly half the world’s solar energy potential and many countries other than Canada have significant amounts of water that can be used to generate electricity. The important question – will all these natural resources start to be used in place of burning the fossil fuels which are killing our planet? If our environment is to survive, then immediate action must be taken to ensure more power comes from renewable sources such as the sum and water.&lt;br&gt;
+中東將近有世界一半的太陽能潛力,許多加拿大以外的國家有相當數量的水能生產電力.重要的問題-將所有的自然資源使用在燃燒化石燃料,會殺死我們的星球?如果我們的環境要生存,必須立刻採取行動,確保更多電力是使用再生能源的太陽和水.
+&lt;p&gt;
+1. Why our planet is getting warmer.&lt;br&gt;
+為何我們的星球在暖化.&lt;br&gt;
+2. How greenhouse gases are created.&lt;br&gt;
+溫室氣體是怎麼產生.&lt;br&gt;
+3. Countries that have a lot of sunshine and desert land.&lt;br&gt;
+這國家有不少的陽光和沙漠.&lt;br&gt;
+4. A large solar power plant.&lt;br&gt;
+一個大型的太陽能發電廠.&lt;br&gt;
+5. A country that gets most of its power from renewable energy.&lt;br&gt;
+這國家大部分的電力是使用再生能源.&lt;br&gt;
+6. How water creates power.&lt;br&gt;
+水怎麼產生電力.&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 3: Scanning to find information 尋找來發現信息&lt;/h3&gt;
+&lt;p&gt;Scan the article quickly and complete the sentences.&lt;br&gt;
+尋找文章快速並完成句子
+&lt;p&gt;
+1. Over &lt;span style="background-color: #ffff00"&gt;50&lt;/span&gt;% of the water in the Niagara River goes through the hydroelectric power generator.&lt;br&gt;
+在Niagara河川超過50%的水通過水力發電機.
+&lt;p&gt;
+2. Over &lt;span style="background-color: #ffff00"&gt;175,000&lt;/span&gt; tons of carbon dioxide is saved every year by the Shams 1 solar power plant.&lt;br&gt;
+Shams 1太陽能發電廠,每年節省超過175,000噸的二氧化碳.
+&lt;p&gt;
+3. The Shams 1 power plant is bigger than &lt;span style="background-color: #ffff00"&gt;285&lt;/span&gt; football pitches.&lt;br&gt;
+Shams 1電力場大於285的足球場.
+&lt;p&gt;
+4. Canada produces almost &lt;span style="background-color: #ffff00"&gt;60&lt;/span&gt;% of its energy from renewable sources.&lt;br&gt;
+加拿大生產將近60%的能源是使用再生能源.
+&lt;p&gt;
+5. The Shams 1 power plant can provide enough electricity for &lt;span style="background-color: #ffff00"&gt;20,000&lt;/span&gt; home.&lt;br&gt;
+Shams 1電力發電廠能提供足夠的電力給20,00家庭使用.
+&lt;p&gt;
+6. Over &lt;span style="background-color: #ffff00"&gt;258,000&lt;/span&gt; mirrors are used in the Shame 1 power plant.&lt;br&gt;
+超過258,000個鏡子使用在Shame 1電力發電廠.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;Exercise 4: Making inferences 進行推理
+Complete the table by writing one word in each space. Use the words in the box.
+完成表格,在每個空間寫入單字.使用方塊內的字.
+&lt;table border="5" width="100%" align="center"&gt;
+&lt;tr&gt;
+&lt;td  style="text-align:center" bgcolor='#FFD78C'&gt;Cause 原因&lt;/td&gt;
+&lt;td style="text-align:center"  bgcolor='#FFD78C'&gt;Effect 影響&lt;/td&gt;
+&lt;tr&gt;
+ &lt;td style="text-align:center"&gt;People burn fossil &lt;span style="background-color: #ffff00"&gt;fuels&lt;/span&gt; around the world.&lt;br&gt;
+人們在世界各地燃燒化石燃料.
+&lt;/td&gt;
+ &lt;td style="text-align:center"&gt;The amount of greenhouse gas in the atmosphere increases.&lt;br&gt;
+溫室氣體在大氣層增加.
+&lt;/td&gt;
+&lt;tr&gt;
+ &lt;td style="text-align:center"&gt;There is a lot of greenhouse gas in the atmosphere.&lt;br&gt;
+不少的溫室氣體在大氣層.
+&lt;/td&gt;
+ &lt;td style="text-align:center"&gt;The planet &lt;span style="background-color: #ffff00"&gt;warms&lt;/span&gt; up.&lt;br&gt;
+星球溫度上升.
+&lt;/td&gt;
+&lt;tr&gt;
+ &lt;td style="text-align:center"&gt;Sunshine on &lt;span style="background-color: #ffff00"&gt;mirror&lt;/span&gt; at the solar plant.&lt;br&gt;
+陽光照射太陽能電廠的鏡子.
+&lt;/td&gt;
+ &lt;td style="text-align:center"&gt;The sun’s heat is focused onto the pipes.&lt;br&gt;
+太陽的熱集中在管子上.
+&lt;/td&gt;
+&lt;tr&gt;
+ &lt;td style="text-align:center"&gt;The sun heats up the special &lt;span style="background-color: #ffff00"&gt;oil&lt;/span&gt; in the pipes.&lt;br&gt;
+太陽加熱管子內的特殊油.
+&lt;/td&gt;
+ &lt;td style="text-align:center"&gt;The hot oil heats water to make &lt;span style="background-color: #ffff00"&gt;steam&lt;/span&gt;.&lt;br&gt;
+熱油加熱水產生蒸氣.
+&lt;/td&gt;
+&lt;tr&gt;
+ &lt;td style="text-align:center"&gt;The steam drives the &lt;span style="background-color: #ffff00"&gt;turbines&lt;/span&gt;.&lt;br&gt;
+蒸氣啟動渦輪.
+&lt;/td&gt;
+ &lt;td style="text-align:center"&gt;The mechanical energy from the turbines makes electrical energy.&lt;br&gt;
+機械能被窩輪轉為電能.
+&lt;/td&gt;
+&lt;tr&gt;
+ &lt;td style="text-align:center"&gt;Renewable sources produce energy instead of fossil fuels.&lt;br&gt;
+再生能源取代化石燃料產生能量.
+&lt;/td&gt;
+ &lt;td style="text-align:center"&gt;Less &lt;span style="background-color: #ffff00"&gt;greenhouse&lt;/span&gt; gas goes into the atmosphere.&lt;br&gt;
+減少大氣層的溫室氣體.
+&lt;/td&gt;
+&lt;/table&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_4-Game</title><link href="./Unit_4-Game.html" rel="alternate"></link><published>2018-01-19T16:36:00+08:00</published><updated>2018-01-19T16:36:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Unit_4-Game.html</id><summary type="html">&lt;p&gt;第四單元的遊戲&lt;/p&gt;
+
+
+&lt;!-- 第四單元的遊戲 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Game:&lt;/h3&gt;
+&lt;p&gt;Speak or swim 說話或游泳
+&lt;p&gt;
+要選擇符合題目的單字或句子(這些題目都是之前練習有出現過的)
+&lt;p&gt;
+&lt;img src="./../data/Unit 4/Online/5.Game/playing.png" width="650" hspace="50"&gt;
+&lt;p&gt;
+選擇正確 會到下一個選擇題 當完成十題就完成遊戲
+&lt;p&gt;
+&lt;img src="./../data/Unit 4/Online/5.Game/congratulations.png" width="650" hspace="50"&gt;&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_4-WritingTask</title><link href="./Unit_4-WritingTask.html" rel="alternate"></link><published>2018-01-19T16:28:00+08:00</published><updated>2018-01-19T16:28:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-19:./Unit_4-WritingTask.html</id><summary type="html">&lt;p&gt;第四單元的寫作任務&lt;/p&gt;
+
+
+&lt;!-- 第四單元的寫作任務 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 11: Writing task 寫作任務&lt;/h3&gt;
+&lt;p&gt;Compare and contrast the advantages and disadvantages of public and private transport.&lt;br&gt;
+比較並對照大眾交通和專人接送的優點和缺點.
+&lt;p&gt;
+&lt;h2 align="center"&gt;Public and private transport&lt;/h2&gt;
+You want to travel alone, but do not have their own transport. At this time there are two options, to take the ride with others, or take their own one. The following is a real case.&lt;br&gt;
+想要自己一個人去旅行,但沒有自己的交通工具.在這時候有兩個選擇,要跟別人一起搭乘,還是自己一人搭乘.以下有實際案例.
+&lt;p&gt;
+&lt;p&gt;
+&lt;b&gt;Public transport:&lt;/b&gt;&lt;br&gt;
+With public transport by means of public transport, you can increase the chances of communicating with others, maybe meeting people who want to go to the same destination with them to increase travel companions. Because it is a large number of passengers, so the price will be cheaper than the pick-up and drop-off, and The impact of environmental pollution is also less.&lt;br&gt;
+跟大眾一起搭乘交通工具,可以增加跟別人交流的機會,說不定會遇到要去跟自己相同目地的人,增加旅遊同伴.因為是一次載大量的乘客,所以價錢會比專人接送便宜,而且對環境物染的影響也較少.&lt;br&gt;
+On the contrary, you do not have a lot of room for yourself, and may interfere with the people next to it.General passenger transport will have several stations.When there are people in every station who want to get off, the journey will be longer.Most important thing is that the route is Can not change itself, can only choose the route to plan your trip.&lt;br&gt;
+相反的,你不會有很多自己的空間,而且可能配旁邊的人干擾.一般的客運都會有好幾站,當每一站都有人要下車時,路程會更久.最重要的事,路線是不能自行改變得,只能選擇路線,來規畫你的旅行.&lt;br&gt;
+Advantages: to recognize new friends, cheap, less pollution to the environment&lt;br&gt;
+大眾客運的優點: 能認識新朋友、價錢便宜、對環境的污染少&lt;br&gt;
+Disadvantages: it is difficult to have their own free space, take a long time, can not change the passenger to go to the place&lt;br&gt;
+大眾客運的缺點: 很難有自己的自由空間、乘坐時間久,不能自己改變客運要去的地點
+&lt;p&gt;
+&lt;b&gt;Private transport:&lt;/b&gt;&lt;br&gt;
+One person traveling alone can have leisure and free space, no one interferes with you and can concentrate on enjoying your trip, because only a few passengers can be picked up, the price will be more expensive than that of the public, and the impact on the environment is even worse Big.&lt;br&gt;
+自己一人搭乘交通工具,可以有悠閒並自由的空間,不會有人干擾你,能專心享受自己的旅行.因為只接送少數乘客,所以價錢會比大眾交通昂貴,而且對環境物染的影響也較大.&lt;br&gt;
+Conversely, you can not meet new friends and lose the chance to talk face-to-face with you.Private pick-up You can choose your own location and plan your travel more freely because you only need to pick-up and pick-up your passenger so go straight to where you are going location.&lt;br&gt;
+相反的,你無法認識新朋友,而且失去跟人面對面談話的機會.專人接送你能自己選擇地點,你能更自由的規劃旅行路線.因為只需要接送你這個乘客,所以直接前往你要去的地點.&lt;br&gt;
+Advantages: to concentrate on their own travel, to choose their own place, spend less time&lt;br&gt;
+專人接送的優點: 能專心自己的旅行、能選擇自己要的地點、花的時間少&lt;br&gt;
+Disadvantages: not recognize new friends, expensive, more pollution to the environment&lt;br&gt;
+專人接送的缺點: 不能認識新朋友、價錢昂貴、對環境的汙染多&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_4-WritingSkills</title><link href="./Unit_4-WritingSkills.html" rel="alternate"></link><published>2018-01-17T16:14:00+08:00</published><updated>2018-01-17T16:14:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-17:./Unit_4-WritingSkills.html</id><summary type="html">&lt;p&gt;第四單元的寫作技巧&lt;/p&gt;
+
+
+&lt;!-- 第四單元的寫作技巧 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 10: Conclusions 結論&lt;/h3&gt;
+&lt;p&gt;Put the sentences in the right order to make two essay conclusions.&lt;br&gt;
+結論這兩篇文章的句子放置正確順序
+&lt;p&gt;
+&lt;b&gt;Conclusion 1   結論1&lt;/b&gt;&lt;br&gt;
+In conclusion, the best way to reduce the number of deaths in traffic accidents is to educate drivers.&lt;br&gt;
+結論,教育駕駛者是減少車禍死亡的最好方法.&lt;br&gt;
+In my opinion, it is the responsibility of every driver to drive with care and attention. &lt;br&gt;
+我的想法,專心開車是每的駕駛者的責任.&lt;br&gt;
+Training new drivers at the time they are learning to drive is the best way to solve this problem.&lt;br&gt;
+訓練新的駕駛者學習最好的開車方式,來解決問題.
+&lt;p&gt;
+&lt;b&gt;Conclusion 2   結論2&lt;/b&gt;&lt;br&gt;
+I would say that laws on speed limits and wearing a seat belt would solve this problem.&lt;br&gt;
+我說法律解決限速和系上安全帶的問題.&lt;br&gt;
+Unless drivers know that they can be punished financially by going too fast, they will not reduce their speeds.&lt;br&gt;
+除非駕駛者知道開太快會被處以罰款,否則他們不會減速.&lt;br&gt;
+Overall, although there a number of ways to reduce the problem of deaths on the road, the main problem is not enough laws.&lt;br&gt;
+有很多的解決辦法,但法律沒有規劃完成&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_4-LanguageDevelopment</title><link href="./Unit_4-LanguageDevelopment.html" rel="alternate"></link><published>2018-01-17T15:24:00+08:00</published><updated>2018-01-17T15:24:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-17:./Unit_4-LanguageDevelopment.html</id><summary type="html">&lt;p&gt;第四單元的語言發展&lt;/p&gt;
+
+
+&lt;!-- 第四單元的語言發展 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 4: Collocations 配對&lt;/h3&gt;
+&lt;p&gt;Choose the correct words to complete the paragraph.&lt;br&gt;
+選擇正確的字來完成段落.
+&lt;p&gt;
+In every city in the world, the worst time for traffic &lt;span style="background-color: #ffff00"&gt;congestion&lt;/span&gt; is the rush &lt;span style="background-color: #ffff00"&gt;hour&lt;/span&gt; in the morning and the evening. Different cities have reached different solutions to this problem. For example, in London there is a congestion &lt;span style="background-color: #ffff00"&gt;charge&lt;/span&gt; which makes it expensive to drive in the centre of the city. This encourages people to travel by public &lt;span style="background-color: #ffff00"&gt;transport&lt;/span&gt; or to use bicycles. To help cyclists in London, special cycle &lt;span style="background-color: #ffff00"&gt;lanes&lt;/span&gt; have been created. In Canada, car &lt;span style="background-color: #ffff00"&gt;sharing&lt;/span&gt; is encourage, with special lanes on the motorway for cars with more than one person inside. In old cities where the roads are narrow, parking &lt;span style="background-color: #ffff00"&gt;restrictions&lt;/span&gt; can be introduced to stop parked cars blocking traffic.&lt;br&gt;
+全世界的城市,最糟糕的時間是早晨和夜晚,是塞車的巔峰期.不同城市有不同的解決方案.例如在倫敦的擁堵費,進入城市要昂貴的費用.鼓勵旅行時搭乘大眾交通工具或是騎自行車.幫助在倫敦騎自行車的人,建立特別的腳踏車步道.在加拿大,鼓勵租借汽車(汽車分享),租借的車在公路旁有專門的道路.在老舊的城市道路狹窄,能採用停車限制來停止停車,防止道路堵塞.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 5: Academic synonyms 學術代名詞&lt;/h3&gt;
+&lt;p&gt;Complete the table using the words in the box.
+使用方框內的字來完成表格.
+&lt;p&gt;
+&lt;table border="5" width="70%" align="left"&gt;
+&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;Academic verb 學術動詞&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;Common verb 普通動詞&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;prevent 避免&lt;/td&gt;
+&lt;td style="text-align:center"&gt;stop 停止&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;select 選擇&lt;/td&gt;
+&lt;td style="text-align:center"&gt;choose 選擇&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;attempt 嘗試&lt;/td&gt;
+&lt;td style="text-align:center"&gt;try 嘗試&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;consider 考慮&lt;/td&gt;
+&lt;td style="text-align:center"&gt;think about 思考&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;convince 說服&lt;/td&gt;
+&lt;td style="text-align:center"&gt;get 得到&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;realize 實現&lt;/td&gt;
+&lt;td style="text-align:center"&gt;understand 理解&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;organize 組織&lt;/td&gt;
+&lt;td style="text-align:center"&gt;run 跑;執行&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;require 需求&lt;/td&gt;
+&lt;td style="text-align:center"&gt;need 需要&lt;/td&gt;
+&lt;/table&gt;
+&lt;!-- 防止表格把文字給覆蓋 --&gt;
+&lt;table border="5" width="100%" align="center"&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 6: Word formation 詞的構造&lt;/h3&gt;
+&lt;p&gt;Complete the table.&lt;br&gt;
+完成表格
+&lt;p&gt;
+&lt;table border="5" width="90%" align="center"&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;Verb 動詞&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;Noun 名詞&lt;/td&gt;
+&lt;td style="text-align:center" bgcolor='#FFD78C'&gt;Adjective形容詞&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;prevent 避免&lt;/td&gt;
+&lt;td style="text-align:center"&gt;prevention 阻止&lt;/td&gt;
+&lt;td style="text-align:center"&gt;preventable 預防&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;select 選擇&lt;/td&gt;
+&lt;td style="text-align:center"&gt;selection 選擇&lt;/td&gt;
+&lt;td style="text-align:center"&gt;selected 選&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;attempt 嘗試&lt;/td&gt;
+&lt;td style="text-align:center"&gt;attempt 嘗試&lt;/td&gt;
+&lt;td style="text-align:center"&gt;attemptable&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;consider 考慮&lt;/td&gt;
+&lt;td style="text-align:center"&gt;consideration 考慮&lt;/td&gt;
+&lt;td style="text-align:center"&gt;considered 考慮&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;convince 說服&lt;/td&gt;
+&lt;td style="text-align:center"&gt;Nothing&lt;/td&gt;
+&lt;td style="text-align:center"&gt;convincing 使人相信&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;realize 實現&lt;/td&gt;
+&lt;td style="text-align:center"&gt;realization 實現&lt;/td&gt;
+&lt;td style="text-align:center"&gt;Nothing&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;organize 組織&lt;/td&gt;
+&lt;td style="text-align:center"&gt;organization 組織&lt;/td&gt;
+&lt;td style="text-align:center"&gt;organized 安排&lt;/td&gt;
+&lt;tr&gt;
+&lt;td style="text-align:center"&gt;require 需求&lt;/td&gt;
+&lt;td style="text-align:center"&gt;requirement 必要條件&lt;/td&gt;
+&lt;td style="text-align:center"&gt;required 需要&lt;/td&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 7: Condition clauses 條件子句&lt;/h3&gt;
+&lt;p&gt;Link the pairs of sentences using if and will/won't.&lt;br&gt;
+使用if will won't 連結句子
+&lt;p&gt;
+1. If public transport is made cheaper, more people will use public transport.&lt;br&gt;
+如果大眾交通工具使用便宜,將會有更多人使用.
+&lt;p&gt;
+2. If more people use public transport, there will be less pollution form cars.&lt;br&gt;
+如果更多人使用大眾交通工具,將減少車子造成的汙染.
+&lt;p&gt;
+3. If there is less pollution form cars, children will be healthier.&lt;br&gt;
+如果減少車子造成的汙染,孩子將會更健康.
+&lt;p&gt;
+4. If there is less traffic congestion, people won’t get road rage.&lt;br&gt;
+如果減少塞車,人們就不會憤怒.
+&lt;p&gt;
+5. If wearing seat belt become compulsory, fewer people will die in road accidents.&lt;br&gt;
+如果系上安全帶是規定,更少人死於車禍.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 8: Conditional clauses 附帶條件子句&lt;/h3&gt;
+&lt;p&gt;Put the words and phrases in the right order to make conditional sentences.&lt;br&gt;
+按照附帶條件句子的順序,放置文字和短句.
+&lt;p&gt;
+&lt;img src="./../data/Unit 4/Online/2.Language development/train.png" width="340" align="left" hspace='10' vspace='10'&gt;
+&lt;p&gt;
+1. If people drive more carefully, there will be fewer accidents.&lt;br&gt;
+如果開車注重安全,車禍將會更少.
+&lt;p&gt;
+2. If people live near their work, they will be able to walk home.&lt;br&gt;
+如果離工作不遠,將能走路回家
+&lt;p&gt;
+3. If there is a bridge over the river, people will not use the ferry.&lt;br&gt;
+如果橋能過河,將不用搭船.
+&lt;p&gt;
+4. If public transport is good, people will use it instead of their cars.&lt;br&gt;
+如果大眾交通工具是好的,將會取代車子.
+&lt;p&gt;
+5. If young people realize the dangers of speed, they will drive more carefully.&lt;br&gt;
+如果年輕人意識到速度的危險,將會更安全駕駛.
+&lt;p&gt;
+6. If people turn of their phones when driving, there will be fewer accidents.&lt;br&gt;
+如果在開車時關到手機,車禍將減少.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 9: Vocabulary 詞彙&lt;/h3&gt;
+&lt;p&gt;Read the clues and then fined the academic vocabulary in the word search.&lt;br&gt;
+閱讀提示再找字遊戲中尋找學術詞彙.
+&lt;p&gt;
+1. to try to something, especially something difficult: attempt&lt;br&gt;
+嘗試做某件事,特別困難的事情: 嘗試
+&lt;p&gt;
+2. to spend time thinking about a possibility or making a decision: consider&lt;br&gt;
+花時間想關於可能行的,或花時間做出決定: 思考
+&lt;p&gt;
+3. to persuade someone or make them certain: convince&lt;br&gt;
+說服某人使他們確定: 說服
+&lt;p&gt;
+4. a subject or problem that people are thinking and talking about: issue&lt;br&gt;
+人們思考並交談關於課程或問題: 問題
+&lt;p&gt;
+5. more important, bigger, or more serious than others of the same type: major&lt;br&gt;
+比其他同類更重要更大或更嚴重: 主要
+&lt;p&gt;
+6. to stop something from happening or someone from doing something: prevent&lt;br&gt;
+停止某件事,或停止某人做某件事: 避免
+&lt;p&gt;
+7. to need something or make something necessary: require&lt;br&gt;
+需要某東西,或需要必須使用: 需要
+&lt;p&gt;
+8. to choose someone or something from a group: select&lt;br&gt;
+在組合中選擇某人或某件事: 選擇&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_4-ReadingSkills</title><link href="./Unit_4-ReadingSkills.html" rel="alternate"></link><published>2018-01-17T14:53:00+08:00</published><updated>2018-01-17T14:53:00+08:00</updated><author><name>40423222</name></author><id>tag:,2018-01-17:./Unit_4-ReadingSkills.html</id><summary type="html">&lt;p&gt;第四單元的閱讀練習&lt;/p&gt;
+
+
+&lt;!-- 第四單元的閱讀練習 --&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 1: Using visuals to predict content 觀看內容作答&lt;/h3&gt;
+&lt;p&gt;Look at the photographs taken from an article on road accidents. Which topics do you think the article will mention?&lt;br&gt;
+觀看從文章內拍攝的交通事故圖片.你認為這文章將提到那些題目?
+&lt;p&gt;
+&lt;img src="./../data/Unit 4/Online/1.Reading skills/seat belt.png" width="300"&gt;
+&lt;img src="./../data/Unit 4/Online/1.Reading skills/speed limit.png" width="300"&gt;
+&lt;p&gt;
+How many people are killed in road traffic accidents.&lt;br&gt;
+有多少人們死在道路上的交通事故.&lt;br&gt;
+選擇: Yes
+&lt;p&gt;
+The reasons for traffic accidents.&lt;br&gt;
+交通事故的原因.&lt;br&gt;
+選擇: Yes
+&lt;p&gt;
+Suggestions about how car manufacturers can improve the design of their cars.&lt;br&gt;
+關於汽車業者提升汽車的設計建議.&lt;br&gt;
+選擇: No
+&lt;p&gt;
+Suggestions about what can be done to prevent these accidents.&lt;br&gt;
+關於能防止事故的建議.&lt;br&gt;
+選擇: Yes
+&lt;p&gt;
+Why wearing a seat belt is a good idea.&lt;br&gt;
+系安全帶是好點子.&lt;br&gt;
+選擇: Yes&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 2: Reading for detail(1) 閱讀內容(1)&lt;/h3&gt;
+&lt;p&gt;Read the text. Choose the correct answer to each question.&lt;br&gt;
+閱讀這文章.選擇每個問題的正確答案.
+&lt;p&gt;
+Deaths on the road – what can be done?&lt;br&gt;
+死於路上 – 能做什麼?
+&lt;p&gt;
+&lt;img src="./../data/Unit 4/Online/1.Reading skills/road bump.png" width="300"&gt;
+&lt;img src="./../data/Unit 4/Online/1.Reading skills/seat belt.png" width="300"&gt;
+&lt;p&gt;
+One of the major transport issues today is that of death on the road. In 2010, over 1.24 million people were killed in traffic accidents. That is an amount equal to the population of Bahrain. Of these 1.24 million people, the majority were young; in many countries, car accidents are the most common cause for the 18-24 age group. We look at the situations that lead to traffic accidents and propose some solutions to these problems, and suggest some of the most useful actions that can be taken to reduce deaths on the road.&lt;br&gt;
+今天主要交通問題之一,死於路上.在2010年,超過1.24百萬人死於交通事故.這數量相當於巴林人口.在這1.24百萬人,大多是年輕人;在許多國家的車禍普遍死於18到24歲.我們看看導致交通事故的情況,並提出解決方案,並建議最有效的行動能減少死於路上.
+&lt;p&gt;
+Although there are many reasons for the high number of deaths on road, 90% of accidents are caused by human error. This major cause includes activities such as speeding, not wearing a motorcycle helmet – which protects against head injuries – and not wearing a seat belt. Other causes of accidents can be the condition of the road and of the cars on them. The number of cars in a country and the drives’ attitude to road safety both have an effect on the number of people killed in road accidents.&lt;br&gt;
+雖然在路上有許多死亡的原因,90%都是由人為疏失造成.主要原因包括超速,不戴機車安全帽(保護頭部受到傷害),不系上安全帶.其他事故原因可能是道路和車子的狀態.在國家內的汽車數量和駕駛者對道路安全的態度,影響人們在道路事故的死亡數量.然而,可以採取行動減少道路死亡的數量.
+&lt;p&gt;
+Most solutions to improve road safety are about changing the behavior of drivers. One of the most obvious actions that can be taken is to introduce speed limits. People who go faster than the speed limit should be punished with a heavy financial penalty. In areas where road accidents are common, cameras can be put on the sides of the road to watch the speed of the traffic. Laws should be introduced to make it compulsory for all drivers and passengers to wear a seat belt, with financial penalties if they do not. In areas where people live, speed bumps, which encourage drivers to go slower, should be introduced. Finally, drivers should be made aware of the dangers of driving too fast or without care.&lt;br&gt;
+大多提升道路安全的方法,改變駕駛者的行為.其中最明顯的方式就是限速.超速的人要處以大量的罰金.在這區域道路事故是常見的,能在路旁放置攝影機來觀看交通速度.使用法律,駕駛者和乘客必須系上安全帶,如果不系上將開罰單.在這區域應該使用減速坡道,鼓勵駕駛者緩慢前進.最後,駕駛者應該要注意駕駛速度或意料外的危險.
+&lt;p&gt;
+There is no doubt that road accidents are one of the major causes of death in the world today and it is an issue that affect all of us. Unless governments take action, more people will be killed on the road. However, if everyone drove more slowly and carefully, fewer people would die.&lt;br&gt;
+不要懷疑,道路事故是現今主要死亡原因之一,是影響全部人的問題.如果政府不採取行動,會有更多人死於路上.然而,如果沒個人緩慢並小心駕駛,死亡人數就會減少.
+&lt;p&gt;
+1. What is one of the main transport problems today?
+現今主要的交通工具問題?&lt;br&gt;
+Choose: The number of people killed in traffic accidents.&lt;br&gt;
+選擇: 人們死於車禍的數量.
+&lt;p&gt;
+2. In some countries, what is the most frequent cause of early death in young people?&lt;br&gt;
+在一些國家,年輕人常見的早死原因?&lt;br&gt;
+Choose: Traffic accidents.&lt;br&gt;
+選擇: 車禍.
+&lt;p&gt;
+3. What is the cause of most traffic accidents?&lt;br&gt;
+什麼是車禍的主要原因?&lt;br&gt;
+Choose: Drivers'mistakes.&lt;br&gt;
+選擇: 駕駛者失誤.
+&lt;p&gt;
+4. What can some motorists be distracted by?&lt;br&gt;
+什麼能讓駕駛分心?&lt;br&gt;
+Choose: Mobile phones.&lt;br&gt;
+選擇: 行動電話.
+&lt;p&gt;
+5. What is it most important to change to reduce the number of road accidents?&lt;br&gt;
+什麼重要的改變來減少車禍?&lt;br&gt;
+Choose: The behavior of drivers.&lt;br&gt;
+選擇: 駕駛者的行為.
+&lt;p&gt;
+6. What do speed cameras do?&lt;br&gt;
+什麼是測速照相機?&lt;br&gt;
+Choose: Check the speed of cars.&lt;br&gt;
+選擇: 檢查車速.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Exercise 3: Reading for detail 閱讀內容&lt;/h3&gt;
+&lt;p&gt;Read the text again. Complete the sentences using the words in the box.&lt;br&gt;
+再次閱讀文章.使用文字方塊完成句子.
+&lt;p&gt;
+1. The number of people killed on the road in 2010 was &lt;span style="background-color: #ffff00"&gt;the same as&lt;/span&gt; the number of people who live on Bahrain.&lt;br&gt;
+在2010年人們死在道路上的數量,相當於巴林的人口數.
+&lt;p&gt;
+2. Not wearing a &lt;span style="background-color: #ffff00"&gt;helmet&lt;/span&gt; is a major cause of many road deaths.&lt;br&gt;
+不穿戴頭盔是許多道路死亡的主要原因.
+&lt;p&gt;
+3. The number of people who &lt;span style="background-color: #ffff00"&gt;own&lt;/span&gt; cars is another factor in the number of road deaths.&lt;br&gt;
+有車的人的數量,跟道路死亡數量有關.
+&lt;p&gt;
+4. A &lt;span style="background-color: #ffff00"&gt;speed limit&lt;/span&gt; is one of the most obvious ways of improving road safety.&lt;br&gt;
+限速是有效提高道路安全的方法.
+&lt;p&gt;
+5. Wearing a &lt;span style="background-color: #ffff00"&gt;seat belt&lt;/span&gt; should be made compulsory.&lt;br&gt;
+系上安全帶是義務.
+&lt;p&gt;
+6. If speed bumps were introduced, drivers would have to go &lt;span style="background-color: #ffff00"&gt;more slowly&lt;/span&gt;.&lt;br&gt;
+如果採用減速波,駕駛者經過就要減速前進.&lt;/p&gt;</summary><category term="Online"></category></entry><entry><title>Unit_2-Game</title><link href="./Unit_2-Game.html" rel="alternate"></link><published>2017-10-23T23:18:00+08:00</published><updated>2017-10-23T23:18:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-10-23:./Unit_2-Game.html</id><summary type="html">&lt;p&gt;第二單元的遊戲&lt;/p&gt;
 
 
 &lt;!-- 第一單元的遊戲 --&gt;
